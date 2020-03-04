@@ -1,0 +1,43 @@
+.sortable{ 
+list-style-type: none;
+ margin: 0;
+ padding: 0; 
+ margin-bottom: 10px;
+ min-height:100px;
+ padding:5px 0;
+ }
+ .customizer_layout {
+  background-color:#ccc;
+ }
+ .sortable li {
+ margin: 5px;
+ padding: 5px;
+ width: 215px; 
+ background-color:#fff;
+ border:1px solid #000;
+ text-align:center;
+ }
+ 
+ .background_active { border: 1px solid #f1c40f !important; border-radius: 2px;}
+ 
+ #customize-control-appointment_options-front_page_data label , #customize-control-appointment_options-layout_textbox_disable label, 
+ #customize-control-appointment_options-back_image input
+ {
+ display:none !important;
+ }
+ #customize-control-appointment_options-theme_color  input { display:none;}
+ 
+ #customize-control-appointment_options-theme_color label img {border:3px solid #fff;}
+ .selected_img {border:2px solid #ceed1e !important;}
+ 
+  #customize-control-appointment_options-back_image label img
+ { border:2px solid #ccc; display: inline-block;width: 115px; height:25px;}
+ 
+ #customize-control-appointment_options-back_image label {
+    display: inline-block;
+    line-height: 20px;
+    margin: 3px;
+    padding: 0;
+}
+#customize-control-appointment_options-theme_color label img{display:inline-block;width:120px;}
+#customize-control-appointment_options-theme_color label{ display:inline-block;margin:0px;}

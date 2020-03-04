@@ -1,0 +1,122 @@
+﻿/*!
+ * Style Switcher Css By Shahid - Scientech IT-------------------------------------------------!
+ */
+
+#style-switcher h3 {  
+	border-bottom: 1px dashed #838a90;
+    color: #9aa4ad;
+    font-family: 'LatoMedium';
+    font-size: 13px;
+	line-height: 20px;
+    font-weight: 600;
+	text-transform: uppercase;
+    margin: 20px 0 10px 1px;
+    padding-bottom: 12px;
+	}
+	#style-switcher {
+	background-color: #fff;
+	/* width: 205px;
+	top: 140px;
+	left: -206px; */
+	position:fixed;
+	width: 140px;
+	top: 140px;
+	left: -140px;
+	z-index: 999;
+	border-radius: 0 0 3px 0;
+	
+	border-bottom: 0;
+	border-top: 0;
+	border-right: 0;
+	
+	border-left: 0;
+	box-shadow: 0px 0px 3px 0px rgba(0, 0, 0, 0.08);
+	}
+#style-switcher div {
+	padding: 3px 8px 5px 8px;
+	background: #22262c;
+	}
+#style-switcher h2 {
+	background-color: #22262c;
+	color: #fff;
+	font-weight: bold;
+	font-size: 15px;
+	padding: 0 0 0 20px;
+	margin:0;
+	line-height:40px;
+	font-family: 'LatoBold';
+	}
+#style-switcher h2 a {
+	background-color: #22262c;
+	display: block;
+	height: 43px;
+	position: absolute;
+	
+	right: -43px;
+	font-size:26px;
+	text-align:center;
+	padding: 0px;
+	color:#fff;
+	top: 0;
+	width: 43px;
+	text-decoration:none;
+	border-radius: 0 3px 3px 0;
+	}
+#style-switcher h2 a > i {
+	font-size: 22px;
+	}	
+	.colors {
+		list-style:none;
+		margin: 0 0px 20px 0;
+		overflow: hidden;
+		padding: 0 0 5px;
+	}
+	
+	.colors li {
+		/* float:left; */
+		margin: 7px 0px 0 0px;
+	}
+	
+	.colors li a {
+		display: block;
+		/* width: 35px; */
+		height: 25px;
+		cursor: pointer;
+		border-radius: 0px;
+	} 
+	
+	.layout-style select, .header-style select, 
+	.footer-style select, .header-color input {
+		width: 164px;
+		padding: 2px 5px;
+		color: #888;
+		cursor: pointer;
+		border-radius: 2px;
+		font-size: 13px;
+		margin: 2px 0 2px 2px;
+	}
+	
+	.header-color .sp-replacer  {
+		padding:4px 6px !important;
+	}
+	
+	.header-color .sp-replacer .sp-dd, .header-color .sp-replacer .sp-preview, div.header-color {
+		padding:0px 1px !important;
+	}
+	
+	.layout-style, .header-style, .header-color
+	.footer-style { padding: 0 !important; }
+	
+	.hc_default { background: #f36557; }
+	.hc_light_teal { background: #00ada7; }
+	.hc_golden {background: #ffb725; }
+	.hc_purple {background: #795cb0; }
+	
+	.hc_bg1 { background-image: url("../../images/bg-patterns/bg-img1.jpg"); }
+	.hc_bg2 { background-image: url("../../images/bg-patterns/bg-img2.png"); }
+	.hc_bg3 { background-image: url("../../images/bg-patterns/bg-img3.png"); }
+	.hc_bg4 { background-image: url("../../images/bg-patterns/bg-img4.png"); }
+	
+	
+	/* @media only screen and (max-width: 1023px) { #style-switcher { display: none; }  */}
+	   

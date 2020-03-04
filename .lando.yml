@@ -1,0 +1,4 @@
+name: northwest-kitchen
+recipe: wordpress
+config:
+  webroot: web

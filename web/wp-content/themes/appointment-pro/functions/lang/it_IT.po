@@ -1,0 +1,1410 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Appointment WordPress Theme\n"
+"Language: it\n"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/404.php:10
+msgid "Oops! Page not found"
+msgstr "Ops! Pagina non trovata"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/404.php:12
+msgid "Go Back"
+msgstr "Indietro"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/about.php:106
+msgid "FOUNDER"
+msgstr "FONDATORE"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/about.php:106
+msgid "DESIGNER"
+msgstr "DESIGNER"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/about.php:106
+msgid "DEVELOPER"
+msgstr "SVILUPPATORE"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Questo articolo è protetto da password. Inserisci la password per visualizzare i commenti."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:12
+msgid "Reply"
+msgstr "Rispondi"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:26
+msgid "Edit"
+msgstr "Modifica"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:40
+msgid "No Comments so far"
+msgstr "Nessun commento finora"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:40
+msgid "1 Comment so far"
+msgstr "1 commento finora"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:47
+msgid "Comment navigation"
+msgstr "Navigazione dei commenti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Commenti meno recenti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Commenti più recenti &rarr;"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:53
+msgid "Comments are closed."
+msgstr "I commenti sono chiusi."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:77
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/contact.php:54
+msgid "Send Message"
+msgstr "Invia il messaggio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:80
+msgid "Leave a Reply"
+msgstr "Commenta"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/content-slider-video.php:47
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/content.php:40
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions.php:173
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-slider.php:29
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-slider.php:68
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-slider.php:180
+msgid "Read More"
+msgstr "Maggiori informazioni"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions.php:69
+msgid "Primary Menu"
+msgstr "Menu primario"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions.php:105
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/breadcrumbs/breadcrumbs.php:108
+msgid "Page"
+msgstr "Pagina"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-news.php:52
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/template-tags.php:33
+msgid "By"
+msgstr "Di"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-slider.php:27
+msgid "Powerful Bootstrap Theme"
+msgstr "Tema Bootstrap ricco di funzionalità"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-testimonial.php:1
+msgid "Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works."
+msgstr "La parola design confonde. Alcune persone pensano che per design si intenda l'aspetto, ma ovviamente se si scava in profondità, in realtà si riferisce al funzionamento."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/search.php:37
+msgid "Nothing Found"
+msgstr "Nessun risultato"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Spiacenti, non è stata trovata nessuna corrispondenza in base ai criteri di ricerca. Riprova utilizzando parole chiave diverse."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:106
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:266
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:127
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:599
+msgid "Purchase Now"
+msgstr "Acquista ora"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:119
+msgid "Explore the works of our members"
+msgstr "Esplora i lavori dei nostri membri"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:142
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:41
+msgid "We work for the best"
+msgstr "Lavoriamo per ottenere il meglio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:190
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:45
+msgid "Stay in touch with us"
+msgstr "Resta in contatto con noi"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:191
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:252
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:74
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:397
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:42
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:63
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:82
+msgid "Have a question? Call us now"
+msgstr "Hai una domanda? Chiamaci ora"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:195
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:125
+msgid "We are open Mon-Fri"
+msgstr "Siamo aperti dal lunedì al venerdì"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:206
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:23
+msgid "No copyright information has been saved yet."
+msgstr "Ancora non è stato salvato nessun dato relativo al copyright."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:246
+msgid "<b>Send Us</b> a Message"
+msgstr "<b>Inviaci</b> un messaggio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:132
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:248
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:369
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:56
+msgid "Read what customers are saying"
+msgstr "Leggi cosa dicono i clienti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:275
+msgid "<b>Find</b> the Address"
+msgstr "<b>Trova</b> l'indirizzo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:291
+msgid "Portfolio Categories"
+msgstr "Categorie del portfolio "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/breadcrumbs/breadcrumbs.php:6
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Home"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/breadcrumbs/breadcrumbs.php:25
+msgid "Archive by category"
+msgstr "Archivio per categoria"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/breadcrumbs/breadcrumbs.php:28
+msgid "Search results for"
+msgstr "Cerca risultati per"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/breadcrumbs/breadcrumbs.php:95
+msgid "Posts tagged"
+msgstr "Articoli taggati"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/breadcrumbs/breadcrumbs.php:100
+msgid "Articles posted by"
+msgstr "Articoli pubblicati da"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/404.php:9
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/breadcrumbs/breadcrumbs.php:103
+msgid "Error 404"
+msgstr "Errore 404"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/custom-controls/select/taxonomy-dropdown-custom-control.php:35
+msgid "None"
+msgstr "Nessuna"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:160
+msgid "Background attachment"
+msgstr "Background attachment"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:108
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:684
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:176
+msgid "Enable overlay"
+msgstr "Abilita la sovrapposizione"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:119
+msgid "Button one"
+msgstr "Pulsante uno"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:145
+msgid "Button two"
+msgstr "Pulsante due"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:201
+msgid "Hide client section"
+msgstr "Nascondi la sezione dei clienti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr "Testo del copyright "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Nascondi il testo del copyright "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions.php:119
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:96
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:218
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:57
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:58
+msgid "Facebook URL"
+msgstr "URL della pagina Facebook "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions.php:120
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:132
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:255
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:61
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:62
+msgid "Twitter URL"
+msgstr "URL del profilo Twitter "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:239
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:404
+msgid "Skype URL"
+msgstr "URL dell'account Skype "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:276
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:367
+msgid "Instagram URL"
+msgstr "URL del profilo Instagram "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:143
+msgid "Mon - Fri 08.00 - 18.00"
+msgstr "Lun - Ven 8.00 - 18.00"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 for Logo Image"
+msgstr "Carica un'immagine per il logo 150x150 "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:104
+msgid "Enter Logo Width"
+msgstr "Inserisci la larghezza del logo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:123
+msgid "Enter Logo Height"
+msgstr "Inserisci l'altezza del logo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr "Mostra il testo del logo "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:153
+msgid "Site favicon"
+msgstr "Favicon del sito"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:155
+msgid "Upload a favicon"
+msgstr "Carica una favicon"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:166
+msgid "Choose your favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Seleziona la favicon (la larghezza e l'altezza ideale è 16x16 o 32x32)"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-layout.php:20
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-layout.php:122
+msgid "Enable"
+msgstr "Attiva"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-layout.php:36
+msgid "By default all the section are enable on homepage. If you do not want to display any section just drag that section to the disabled box."
+msgstr "Per impostazione predefinita nella pagina principale risultano attivate tutte le sezioni. Se preferisci non visualizzare una sezione, trascinala nella casella di disattivazione."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-layout.php:139
+msgid "Disable"
+msgstr "Disattiva"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:141
+msgid "Select Number of Post"
+msgstr "Seleziona il numero dell'articolo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-post-type-slugs.php:10
+msgid "SEO Friendly Url's"
+msgstr "URL SEO friendly "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-post-type-slugs.php:38
+msgid "Portfolio Slug"
+msgstr "Slug del portfolio "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:87
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:100
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:74
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:85
+msgid "slide"
+msgstr "diapositiva"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:96
+msgid "2000"
+msgstr "2000"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:106
+msgid "If the transition-delay value is 2000 that means 2 seconds."
+msgstr "Se il valore del ritardo di transizione è 2000 corrisponderà a 2 secondi."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_theme_style.php:79
+msgid "wide"
+msgstr "orizzontale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_theme_style.php:90
+msgid "Theme Layout"
+msgstr "Layout del tema"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:14
+msgid "Customize Read More Button in slider"
+msgstr "Personalizza il pulsante Maggiori informazioni all'interno dello slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:28
+msgid "By default the read more button will take you to the single view of post. But if you want to add custom link to the read more than you use the below settings."
+msgstr "Per impostazione predefinita il pulsante Maggiori informazioni ti reindirizzerà alla visualizzazione singola dell'articolo. Tuttavia, se desideri aggiungere a quest'ultimo un link personalizzato, usa le impostazioni qui in basso."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:30
+msgid "Show Read More Button"
+msgstr "Mostra il pulsante Maggiori informazioni"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:14
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:51
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:86
+msgid "New Link"
+msgstr "Nuovo link"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:16
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:53
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:88
+msgid "View Link"
+msgstr "Visualizza il link"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:17
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:54
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:89
+msgid "Search Links"
+msgstr "Cerca link"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:18
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:55
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:90
+msgid "No Links found"
+msgstr "Non è stato trovato nessun link"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:19
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:56
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:91
+msgid "No Links found in Trash"
+msgstr "Nel cestino non è stato trovato nessun link"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget."
+msgstr "Widget informativo del tema Appointment."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/header-widget.php:76
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/header-widget.php:101
+msgid "Make a reservation: 1-800-123-4567"
+msgstr "Prenota: 1-800-123-4567"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Spiacenti, la pagina richiesta è inesistente."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:40
+msgid "Comments so far"
+msgstr "Commenti finora"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:74
+msgid "Leave your message"
+msgstr "Invia il messaggio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:75
+msgid "Logged in as"
+msgstr "Connesso come"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:75
+msgid "Logout from this Account"
+msgstr "Esci da questo account"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:75
+msgid "Logout"
+msgstr "Esci"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/contact.php:32
+msgid "Thank you"
+msgstr "Grazie"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/contact.php:32
+msgid "Your information has been sent."
+msgstr "I tuoi dati sono stati inviati."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:64
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/contact.php:43
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/contact.php:44
+msgid "Name"
+msgstr "Nome"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:65
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/contact.php:47
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/contact.php:48
+msgid "Email"
+msgstr "E-mail"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/contact.php:51
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/contact.php:52
+msgid "Message"
+msgstr "Messaggio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-slider.php:28
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-slider.php:36
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-slider.php:43
+msgid "This is a very powerful theme can be used for any type of business. Layout is clean and elegant."
+msgstr "Questo tema è ricco di funzionalità e può essere utilizzato per qualunque tipo di attività. Il layout è sobrio ed elegante."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-slider.php:67
+msgid "This is an example of a video post format displayed in the featured slider with an excerpt added."
+msgstr "Questo è un esempio di un articolo in formato video visualizzato nello slider in primo piano con l'aggiunta di un riassunto."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:109
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:186
+msgid "Get in Touch"
+msgstr "Contatta"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:131
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:41
+msgid "What our clients says"
+msgstr "Cosa dicono i nostri clienti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:200
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:260
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:176
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:499
+msgid "Drop us a mail"
+msgstr "Inviaci una e-mail"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:229
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:57
+msgid "We create our themes with a thought of our customers, therefore our team works hard to provide you best technical support in the world"
+msgstr "Sviluppiamo i nostri temi pensando ai nostri clienti, perciò il nostro team lavora intensamente per fornire il miglior supporto tecnico al mondo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:264
+msgid "Contact Information"
+msgstr "Dati di contatto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:284
+msgid "Daily Archive"
+msgstr "Archivio giornaliero"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:285
+msgid "Monthly Archive"
+msgstr "Archivio mensile"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:286
+msgid "Yearly Archive"
+msgstr "Archivio annuale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:287
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:23
+msgid "Category Archive"
+msgstr "Archivio delle categorie"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:288
+msgid "Author Archive"
+msgstr "Archivio degli autori"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:289
+msgid "Tag Archive"
+msgstr "Archivio dei tag"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:290
+msgid "Search Archive"
+msgstr "Archivio di ricerca"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:9
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:15
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:540
+msgid "Contact callout settings"
+msgstr "Impostazioni callout di contatto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:35
+msgid "Hide callout section from homepage"
+msgstr "Nascondi la sezione callout nella pagina principale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:137
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:196
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:87
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:609
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:32
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:33
+msgid "Button Text"
+msgstr "Testo del pulsante"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:161
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:213
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:104
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:627
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:35
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:36
+msgid "Button Link"
+msgstr "Link del pulsante"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:177
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:229
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:119
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:172
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:225
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:279
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:333
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:387
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:440
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:495
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:548
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:113
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:149
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:184
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:220
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:256
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:293
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:329
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:162
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:261
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:359
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:457
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:555
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:653
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:749
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:844
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:942
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:643
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:38
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:59
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:63
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:67
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:98
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/header-widget.php:106
+msgid "Open link in new tab"
+msgstr "Apri il link in una nuova scheda"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:126
+msgid "Client section one"
+msgstr "Sezione dei clienti uno"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:179
+msgid "Client section two"
+msgstr "Sezione dei clienti due"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:233
+msgid "Client section three"
+msgstr "Sezione dei clienti tre"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:287
+msgid "Client section four"
+msgstr "Sezione dei clienti quattro"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:341
+msgid "Client section five"
+msgstr "Sezione dei clienti cinque"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:394
+msgid "Client section six"
+msgstr "Sezione dei clienti sei"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:447
+msgid "Client section seven"
+msgstr "Sezione dei clienti sette"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:502
+msgid "Client section eight"
+msgstr "Sezione dei clienti otto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:9
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:16
+msgid "Footer callout settings"
+msgstr "Impostazioni callout del footer"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:52
+msgid "Callout Header"
+msgstr "Header del callout "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:66
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:117
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:168
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:91
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:190
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:287
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:384
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:483
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:581
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:678
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:774
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:871
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:389
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:440
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:491
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:84
+msgid "Icon"
+msgstr "Icona"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:52
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:50
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:83
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:134
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:185
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:89
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:51
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:51
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:109
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:208
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:306
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:402
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:501
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:599
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:696
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:792
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:889
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:49
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:406
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:457
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:508
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:575
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:48
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:32
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:51
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:70
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:89
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:117
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:126
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:143
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:152
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:166
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:173
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:186
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:193
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "Titolo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:67
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:68
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:101
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:152
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:203
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:104
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:66
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:68
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:127
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:226
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:324
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:420
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:520
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:618
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:714
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:810
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:907
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:64
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:424
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:475
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:526
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:591
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:63
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:81
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:83
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:94
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:88
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/header-widget.php:100
+msgid "Description"
+msgstr "Descrizione"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr "Impostazioni header personalizzato"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr "Headline dell'header  "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr "Testo dell'header "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr "Nascondi la sezione dei servizi nella pagina principale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr "Sezione dei servizi uno"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:156
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:209
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:263
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:317
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:371
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:424
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:479
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:532
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:145
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:245
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:343
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:441
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:539
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:637
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:733
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:828
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:926
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:96
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:97
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/header-widget.php:103
+msgid "Link"
+msgstr "Link"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:171
+msgid "Service section two"
+msgstr "Sezione dei servizi due"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:268
+msgid "Service section three"
+msgstr "Sezione dei servizi tre"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:367
+msgid "Service section four"
+msgstr "Sezione dei servizi quattro"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:465
+msgid "Service section five"
+msgstr "Sezione dei servizi cinque"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:562
+msgid "Service section six"
+msgstr "Sezione dei servizi sei"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:659
+msgid "Service section seven"
+msgstr "Sezione dei servizi sette"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:756
+msgid "Service section eight"
+msgstr "Sezione dei servizi otto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:851
+msgid "Service section nine"
+msgstr "Sezione dei servizi nove"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:8
+msgid "Slider settings"
+msgstr "Impostazioni slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:33
+msgid "Hide slider from homepage"
+msgstr "Nascondi lo slider nella pagina principale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:54
+msgid "Select slider type"
+msgstr "Seleziona il tipo di slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:76
+msgid "Select category for slider"
+msgstr "Seleziona la categoria per lo slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:98
+msgid "Select slider animation"
+msgstr "Seleziona l'animazione dello slider "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:137
+msgid "Input number of slides"
+msgstr "Inserisci il numero di diapositive"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:152
+msgid "Show slider post in blog pages, archive page, category page etc."
+msgstr "Mostra l'articolo in formato slider nelle pagine del blog, nella pagina dell'archivio, nella pagina della categoria ecc."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:7
+msgid "Template settings"
+msgstr "Impostazioni template "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:228
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:42
+msgid "Meet our great team"
+msgstr "Conosci il nostro fantastico team"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:152
+msgid "Hide post meta from blog pages, archive pages, categories, author etc."
+msgstr "Nascondi i metadati dell'articolo nelle pagine del blog, nelle pagine dell'archivio, nelle categorie, nell'autore ecc."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:182
+msgid "Hide testimonial section"
+msgstr "Nascondi la sezione dei testimonial "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-footer-callout.php:35
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:127
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:219
+msgid "Hide footer callout"
+msgstr "Nascondi callout del footer "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:229
+msgid "Contact page setting"
+msgstr "Impostazioni della pagina Contatti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:238
+msgid "Send us a message"
+msgstr "Inviaci un messaggio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:245
+msgid "Contact form title"
+msgstr "Titolo del modulo di contatto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:270
+msgid "Find the address"
+msgstr "Trova l'indirizzo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:360
+msgid "Section title"
+msgstr "Titolo della sezione"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:376
+msgid "Section description"
+msgstr "Descrizione della sezione"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:559
+msgid "Hide contact callout from contact page"
+msgstr "Nascondi callout di contatto nella pagina Contatti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:8
+msgid "Testimonial settings"
+msgstr "Impostazioni testimonial "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:30
+msgid "Hide testimonials from homepage"
+msgstr "Nascondi i testimonial nella pagina principale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:83
+msgid "Animation"
+msgstr "Animazione"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:118
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:107
+msgid "Duration"
+msgstr "Durata"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:121
+msgid "Click here to add testimonial"
+msgstr "Clicca qui per inserire il testimonial"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:9
+msgid "Banner settings"
+msgstr "Impostazioni banner "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:60
+msgid "Daily archive title"
+msgstr "Titolo dell'archivio giornaliero "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:79
+msgid "Monthly archive title"
+msgstr "Titolo dell'archivio mensile"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:98
+msgid "Yearly archive title"
+msgstr "Titolo dell'archivio annuale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_theme_style.php:168
+msgid "Enable custom color skin"
+msgstr "Attiva interfaccia con colore personalizzato"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions.php:121
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:167
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:291
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:65
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:66
+msgid "LinkedIn URL"
+msgstr "URL del profilo LinkedIn "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/header-widget.php:96
+msgid "Fontawesome icon"
+msgstr "Icona Font Awesome "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/header-widget.php:98
+msgid "Find all icons"
+msgstr "Trova tutte le icone"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:86
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/header-widget.php:98
+msgid "here"
+msgstr "qui"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:86
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:88
+msgid "Woocommerce sidebar widget area"
+msgstr "Area del widget della barra laterale di Woocommerce "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:57
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment"
+msgstr "Per pubblicare un commento, devi <a href=\"%s\">accedere</a> "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions.php:122
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:203
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:329
+msgid "GooglePlus URL"
+msgstr "URL del profilo GooglePlus "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-layout.php:36
+msgid "Note"
+msgstr "Nota"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-post-type-slugs.php:51
+msgid "Portfolio category slug"
+msgstr "Slug della categoria Portfolio "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:14
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr "Titolo della sezione"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:292
+msgid "Google map URL"
+msgstr "URL della mappa di Google"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:196
+msgid "Hide Header Social icons"
+msgstr "Nascondi le icone dei social media nell'header "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-post-type-slugs.php:15
+msgid "Post type slugs setting"
+msgstr "Impostazione slug del tipo di articolo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:28
+msgid "The settings mentioned below will only work for posts that are shown in slider."
+msgstr "Le impostazioni menzionate qui in basso funzioneranno solo per gli articoli visualizzati nello slider."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:7
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr "Area del widget della barra laterale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:144
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:77
+msgid "See case studies"
+msgstr "Leggi i case study"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:469
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:482
+msgid "Custom CSS"
+msgstr "CSS personalizzato"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/archive.php:22
+msgid "Blog Archive"
+msgstr "Archivio del blog"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/comments.php:24
+msgid "Posted on"
+msgstr "Pubblicato il"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/index-slider.php:66
+msgid "Video format"
+msgstr "Formato video"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/single.php:17
+msgid "About the author"
+msgstr "Info sull'autore"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:50
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:42
+msgid "Our services"
+msgstr "I nostri servizi"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:53
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:56
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:59
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:62
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:65
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:68
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:100
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:199
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:297
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:393
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:492
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:590
+msgid "Easy to use"
+msgstr "Facile da usare"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:101
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:45
+msgid "Want to say hey or find out more?"
+msgstr "Ci vuoi salutare o desideri saperne di più?"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:118
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:44
+msgid "Latest projects"
+msgstr "Ultimi progetti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:183
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:82
+msgid "Latest news"
+msgstr "Notizie più recenti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:247
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:353
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:568
+msgid "Contact info"
+msgstr "Dati di contatto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:256
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:448
+msgid "Our office location"
+msgstr "Ubicazione del nostro ufficio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/theme_setup_data.php:265
+msgid "Be creative with our template, with hundred of options and possibilities Don't miss this great opportunity and profit from this great template."
+msgstr "Sii creativo con le centinaia di opzioni e possibilità del nostro template. Non perdere questa magnifica opportunità e approfitta di questo fantastico template."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:8
+msgid "Client settings"
+msgstr "Impostazioni clienti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:138
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:191
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:245
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:299
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:353
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:406
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:459
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:514
+msgid "Image"
+msgstr "Immagine"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:7
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr "Impostazioni copyright nel footer"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Nascondi le icone dei social media nel footer "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:312
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:442
+msgid "YouTube URL"
+msgstr "URL del canale YouTube "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr "Impostazioni header "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-layout.php:86
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-layout.php:91
+msgid "Theme layout manager"
+msgstr "Layout manager del tema"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:8
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:14
+msgid "Latest news settings"
+msgstr "Impostazioni notizie più recenti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:53
+msgid "Show slider post in latest news"
+msgstr "Mostra l'articolo in formato slider nelle notizie più recenti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:121
+msgid "Select category for latest news"
+msgstr "Seleziona la categoria per le notizie più recenti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-post-type-slugs.php:101
+msgid "Click here permalinks setting"
+msgstr "Impostazione permalink Clicca qui"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:8
+msgid "Project settings"
+msgstr "Impostazioni progetti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:79
+msgid "Select category for project"
+msgstr "Seleziona la categoria per il progetto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:99
+msgid "Input number of projects"
+msgstr "Inserisci il numero di progetti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:113
+msgid "Click here to add project"
+msgstr "Clicca qui per aggiungere il progetto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr "Impostazioni servizi"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:57
+msgid "Demo slider"
+msgstr "Slider dimostrativo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:58
+msgid "Category slider"
+msgstr "Slider della categoria"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:100
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:85
+msgid "fade"
+msgstr "dissolvenza"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:77
+msgid "Click here to add team member"
+msgstr "Clicca qui per aggiungere il membro del team"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:260
+msgid "Hide Google map"
+msgstr "Nascondi la mappa di Google "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:277
+msgid "Contact Google map title"
+msgstr "Titolo della mappa di Google della pagina Contatti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:306
+msgid "Click here to add Google map"
+msgstr "Clicca qui per aggiungere la mappa di Google"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:329
+msgid "Contact information setting"
+msgstr "Impostazione dati di contatto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:14
+msgid "Category"
+msgstr "Categoria"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:41
+msgid "Archive"
+msgstr "Archivio"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:108
+msgid "Author"
+msgstr "Autore"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:134
+msgid "Tag"
+msgstr "Tag"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:160
+msgid "Search"
+msgstr "Cerca"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_banner.php:180
+msgid "Portfolio category"
+msgstr "Categoria Portfolio "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_theme_style.php:42
+msgid "Predefined default background"
+msgstr "Sfondo predefinito "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_theme_style.php:132
+msgid "Predefined colors"
+msgstr "Colori predefiniti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_theme_style.php:186
+msgid "Skin color"
+msgstr "Colore dell'interfaccia"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:6
+msgid "Testimonial Details"
+msgstr "Dettagli testimonial "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:8
+msgid "Service Details"
+msgstr "Dettagli servizi"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:10
+msgid "Portfolio Details"
+msgstr "Dettagli portfolio "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:12
+msgid "Team Detail"
+msgstr "Dettagli team "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:53
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:54
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:79
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:80
+msgid "Designation"
+msgstr "Designazione"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/meta-box/post-meta.php:56
+msgid "Social media setting"
+msgstr "Impostazione social media "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:11
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:13
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:48
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:50
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:83
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:85
+msgid "Add New"
+msgstr "Aggiungi nuovo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:12
+msgid "Add New Testimonial"
+msgstr "Aggiungi nuovo testimonial"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:15
+msgid "All Testimonials"
+msgstr "Tutti i testimonial"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:49
+msgid "Add New Portfolio / Project"
+msgstr "Aggiungi nuovo portfolio / progetto"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:52
+msgid "All Portfolio / Project"
+msgstr "Tutti i portfolio / progetti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:84
+msgid "Add New Team"
+msgstr "Aggiungi nuovo team"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/post-type/custom-post-type.php:87
+msgid "All Teams"
+msgstr "Tutti i team"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:16
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr "Area widget del footer"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:27
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:29
+msgid "Top header left area"
+msgstr "Area superiore sinistra dell'header "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:37
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:39
+msgid "Top header center area"
+msgstr "Area superiore centrale dell'header "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:47
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:49
+msgid "Top header right area"
+msgstr "Area superiore destra dell'header "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:57
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:59
+msgid "Left widget area below slider"
+msgstr "Area widget sinistra sotto lo slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:66
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:68
+msgid "Right widget area below slider"
+msgstr "Area widget destra sotto lo slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:75
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/sidebars.php:77
+msgid "Center widget area below slider"
+msgstr "Area widget centrale sotto lo slider"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-client.php:32
+msgid "Hide client section from homepage"
+msgstr "Nascondi la sezione dei clienti nella pagina principale "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr "Impostazioni logo dell'header "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr "Attiva/Disattiva il logo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-layout.php:35
+msgid "Slider has fix position on home page"
+msgstr "Nella pagina principale lo slider ha una posizione fissa"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:34
+msgid "Hide news section from homepage"
+msgstr "Nascondi la sezione delle notizie nella pagina principale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-news.php:72
+msgid "Hide post meta from news section"
+msgstr "Nascondi i metadati dell'articolo nella sezione delle notizie"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:14
+msgid "Homepage project settings"
+msgstr "Impostazioni progetti pagina principale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:33
+msgid "Hide project section from homepage"
+msgstr "Nascondi la sezione dei progetti nella pagina principale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-slider.php:14
+msgid "Featured slider settings"
+msgstr "Impostazioni slider in primo piano"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:33
+msgid "Hide team section from about us page"
+msgstr "Nascondi la sezione del team nella pagina Chi siamo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:110
+msgid "Hide client section from about us page"
+msgstr "Nascondi la sezione dei clienti nella pagina Chi siamo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:345
+msgid "Hide contact info section from contact page"
+msgstr "Nascondi la sezione dei dati di contatto nella pagina Contatti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:584
+msgid "Be creative with our template, with hundred of options and possibilities Do not miss this great opportunity and profit from this great template."
+msgstr "Sii creativo con le centinaia di opzioni e possibilità del nostro template. Non perdere questa magnifica opportunità e approfitta di questo fantastico template."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:14
+msgid "Homepage testimonial settings"
+msgstr "Impostazioni testimonial pagina principale"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_theme_style.php:105
+msgid "Predefined default backgrounds"
+msgstr "Sfondi predefiniti "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:79
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:655
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-testimonial.php:147
+msgid "Background Image"
+msgstr "Immagine di sfondo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-callout.php:92
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:668
+msgid "Background Position"
+msgstr "Posizione dello sfondo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Link ai social media"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-header.php:176
+msgid "Social links"
+msgstr "Link ai social media"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-post-type-slugs.php:26
+msgid "Team slug"
+msgstr "Slug del team"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-post-type-slugs.php:64
+msgid "Testimonial slug"
+msgstr "Slug dei testimonial "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-post-type-slugs.php:73
+msgid "After Changing the slug, please do not forget to save permalinks. Without saving, the old permalinks will not revise."
+msgstr "Dopo la modifica dello slug, ricordati di salvare i permalink. Se non lo farai, i vecchi permalink non verranno aggiornati."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-post-type-slugs.php:88
+msgid "Appointment slug"
+msgstr "Slug di Appointment "
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-project.php:145
+msgid "Select project category archive column layout"
+msgstr "Seleziona il layout delle colonne dell'archivio delle categorie dei progetti"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:14
+msgid "About us page setting"
+msgstr "Impostazione della pagina Chi siamo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:135
+msgid "Blog page setting"
+msgstr "Impostazione della pagina Blog"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer-template.php:162
+msgid "Service page setting"
+msgstr "Impostazione della pagina Servizi"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/customizer/customizer_theme_style.php:71
+msgid "Theme style setting"
+msgstr "Impostazione dello stile del tema"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:86
+msgid "Get your fontawesome icons."
+msgstr "Scarica le icone Font Awesome."
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR: widget informativo"
+
+#: D:\xampp\htdocs\wp7\wp-content\themes\appointment_pro_customizer/functions/widgets/header-widget.php:14
+msgid "WBR : Header Widget"
+msgstr "WBR:  widget dell'header"
+

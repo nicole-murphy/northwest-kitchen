@@ -1,0 +1,1443 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Appointment WordPress Theme\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr "No s'ha trobat la pàgina"
+
+#: about.php:106
+msgid "FOUNDER"
+msgstr "FUNDADOR"
+
+#: about.php:106
+msgid "DESIGNER"
+msgstr "DISSENYADOR"
+
+#: about.php:106
+msgid "DEVELOPER"
+msgstr "DESENVOLUPADOR"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Aquesta publicació està protegida amb contrasenya. Introduïu-la per veure els comentaris."
+
+#: comments.php:12
+msgid "Reply"
+msgstr "Respon"
+
+#: comments.php:26
+msgid "Edit"
+msgstr "Edita"
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "El comentari està pendent de moderació."
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr "Comenteu la navegació"
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentaris antics"
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Comentaris nous &rarr;"
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr "S'ha tancat els comentaris."
+
+#: comments.php:77 contact.php:54
+msgid "Send Message"
+msgstr "Envia el missatge"
+
+#: comments.php:80
+msgid "Leave a Reply"
+msgstr "Deixeu una resposta"
+
+#: content-slider-video.php:47 content.php:40 functions.php:176
+#: index-slider.php:29 index-slider.php:68 index-slider.php:180
+msgid "Read More"
+msgstr "Llegiu més"
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr "Menú principal"
+
+#: functions.php:108 functions/breadcrumbs/breadcrumbs.php:108
+msgid "Page"
+msgstr "Pàgina"
+
+#: functions/template-tags.php:33 index-news.php:52
+msgid "By"
+msgstr "Per"
+
+#: index-slider.php:27
+msgid "Powerful Bootstrap Theme"
+msgstr "Tema Bootstrap potent"
+
+#: index-testimonial.php:1
+msgid "Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works."
+msgstr "«Disseny» és una paraula estranya. Hi ha qui pensa que significa com es veu alguna cosa. Però si hi profunditzeu, realment és com funciona."
+
+#: search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Els criteris de cerca no han trobat cap coincidència. Proveu de nou amb paraules clau diferents."
+
+#: functions/customizer/customizer-callout.php:127
+#: functions/customizer/customizer-template.php:599 theme_setup_data.php:106
+#: theme_setup_data.php:266
+msgid "Purchase Now"
+msgstr "Compreu-ho ara"
+
+#: theme_setup_data.php:119
+msgid "Explore the works of our members"
+msgstr "Exploreu el treball dels nostres membres"
+
+#: functions/customizer/customizer-footer-callout.php:45
+#: theme_setup_data.php:190
+msgid "Stay in touch with us"
+msgstr "Estigueu en contacte amb nosaltres"
+
+#: functions/customizer/customizer-footer-callout.php:74
+#: functions/customizer/customizer-template.php:397
+#: functions/widgets/appointment_info_widget.php:42
+#: functions/widgets/appointment_info_widget.php:63
+#: functions/widgets/appointment_info_widget.php:82 theme_setup_data.php:191
+#: theme_setup_data.php:252
+msgid "Have a question? Call us now"
+msgstr "Teniu cap pregunta? Truqueu-nos"
+
+#: functions/customizer/customizer-copyright.php:23 theme_setup_data.php:206
+msgid "No copyright information has been saved yet."
+msgstr "Encara no s'ha desat cap informació de drets d'autor."
+
+#: theme_setup_data.php:246
+msgid "<b>Send Us</b> a Message"
+msgstr "<b>Envien-nos</b> un missatge"
+
+#: theme_setup_data.php:275
+msgid "<b>Find</b> the Address"
+msgstr "<b>Trobeu</b> l'adreça"
+
+#: theme_setup_data.php:291
+msgid "Portfolio Categories"
+msgstr "Categories de portafolis"
+
+#: functions/breadcrumbs/breadcrumbs.php:6
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Inici"
+
+#: functions/breadcrumbs/breadcrumbs.php:25
+msgid "Archive by category"
+msgstr "Arxiu per categories"
+
+#: functions/breadcrumbs/breadcrumbs.php:28
+msgid "Search results for"
+msgstr "Resultats de la cerca de"
+
+#: functions/breadcrumbs/breadcrumbs.php:95
+msgid "Posts tagged"
+msgstr "Publicacions etiquetades"
+
+#: functions/breadcrumbs/breadcrumbs.php:100
+msgid "Articles posted by"
+msgstr "Articles publicats per"
+
+#: 404.php:9 functions/breadcrumbs/breadcrumbs.php:103
+msgid "Error 404"
+msgstr "Error 404"
+
+#: functions/custom-controls/select/taxonomy-dropdown-custom-control.php:35
+msgid "None"
+msgstr "Cap"
+
+#: functions/customizer/customizer-testimonial.php:160
+msgid "Background attachment"
+msgstr "Fitxer adjunt de fons"
+
+#: functions/customizer/customizer-callout.php:108
+#: functions/customizer/customizer-template.php:684
+#: functions/customizer/customizer-testimonial.php:176
+msgid "Enable overlay"
+msgstr "Activa la superposició"
+
+#: functions/customizer/customizer-callout.php:119
+msgid "Button one"
+msgstr "Primer botó"
+
+#: functions/customizer/customizer-callout.php:145
+msgid "Button two"
+msgstr "Segon botó"
+
+#: functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr "Text dels drets d'autor"
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Amaga el text dels drets d'autor"
+
+#: functions.php:122 functions/customizer/customizer-copyright.php:96
+#: functions/customizer/customizer-header.php:218
+#: functions/meta-box/post-meta.php:57 functions/meta-box/post-meta.php:58
+msgid "Facebook URL"
+msgstr "URL de Facebook"
+
+#: functions.php:123 functions/customizer/customizer-copyright.php:132
+#: functions/customizer/customizer-header.php:255
+#: functions/meta-box/post-meta.php:61 functions/meta-box/post-meta.php:62
+msgid "Twitter URL"
+msgstr "URL de Twitter"
+
+#: functions/customizer/customizer-copyright.php:239
+#: functions/customizer/customizer-header.php:404
+msgid "Skype URL"
+msgstr "URL d'Skype"
+
+#: functions/customizer/customizer-copyright.php:276
+#: functions/customizer/customizer-header.php:367
+msgid "Instagram URL"
+msgstr "URL d'Instagram"
+
+#: functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr "Mostra el text del logotip"
+
+#: functions/customizer/customizer-layout.php:20
+#: functions/customizer/customizer-layout.php:122
+msgid "Enable"
+msgstr "Activa"
+
+#: functions/customizer/customizer-layout.php:139
+msgid "Disable"
+msgstr "Desactiva"
+
+#: functions/customizer/customizer-testimonial.php:96
+msgid "2000"
+msgstr "2000"
+
+#: functions/customizer/customizer_theme_style.php:79
+msgid "wide"
+msgstr "amplada"
+
+#: functions/customizer/customizer_theme_style.php:90
+msgid "Theme Layout"
+msgstr "Disseny del tema"
+
+#: functions/meta-box/post-meta.php:14
+msgid "Customize Read More Button in slider"
+msgstr "Personalitzeu el botó «Llegiu més» de la presentació"
+
+#: functions/meta-box/post-meta.php:30
+msgid "Show Read More Button"
+msgstr "Mostra el botó «Llegiu més»"
+
+#: functions/post-type/custom-post-type.php:14
+#: functions/post-type/custom-post-type.php:51
+#: functions/post-type/custom-post-type.php:86
+msgid "New Link"
+msgstr "Enllaç nou"
+
+#: functions/post-type/custom-post-type.php:16
+#: functions/post-type/custom-post-type.php:53
+#: functions/post-type/custom-post-type.php:88
+msgid "View Link"
+msgstr "Mostra l'enllaç"
+
+#: functions/post-type/custom-post-type.php:17
+#: functions/post-type/custom-post-type.php:54
+#: functions/post-type/custom-post-type.php:89
+msgid "Search Links"
+msgstr "Cerca enllaços"
+
+#: functions/post-type/custom-post-type.php:18
+#: functions/post-type/custom-post-type.php:55
+#: functions/post-type/custom-post-type.php:90
+msgid "No Links found"
+msgstr "No s'ha trobat cap enllaç"
+
+#: functions/post-type/custom-post-type.php:19
+#: functions/post-type/custom-post-type.php:56
+#: functions/post-type/custom-post-type.php:91
+msgid "No Links found in Trash"
+msgstr "No s'ha trobat cap enllaç a la Paperera"
+
+#: functions/widgets/header-widget.php:76
+#: functions/widgets/header-widget.php:101
+msgid "Make a reservation: 1-800-123-4567"
+msgstr "Feu una reserva: 1-800-123-4567"
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "La pàgina que cerqueu no existeix."
+
+#: comments.php:74
+msgid "Leave your message"
+msgstr "Deixeu un missatge"
+
+#: comments.php:75
+msgid "Logged in as"
+msgstr "Connectat com a"
+
+#: contact.php:32
+msgid "Thank you"
+msgstr "Gràcies"
+
+#: contact.php:32
+msgid "Your information has been sent."
+msgstr "La vostra informació s'ha enviat."
+
+#: comments.php:64 contact.php:43 contact.php:44
+msgid "Name"
+msgstr "Nom"
+
+#: comments.php:65 contact.php:47 contact.php:48
+msgid "Email"
+msgstr "Adreça electrònica"
+
+#: contact.php:51 contact.php:52
+msgid "Message"
+msgstr "Missatge"
+
+#: index-slider.php:67
+msgid "This is an example of a video post format displayed in the featured slider with an excerpt added."
+msgstr "Això és un exemple de publicació de vídeo mostrada a la presentació destacada, amb un extracte afegit."
+
+#: functions/customizer/customizer-callout.php:186 theme_setup_data.php:109
+msgid "Get in Touch"
+msgstr "Contacteu"
+
+#: functions/customizer/customizer-footer-callout.php:176
+#: functions/customizer/customizer-template.php:499 theme_setup_data.php:200
+#: theme_setup_data.php:260
+msgid "Drop us a mail"
+msgstr "Envieu-nos un correu"
+
+#: theme_setup_data.php:264
+msgid "Contact Information"
+msgstr "Informació de contacte"
+
+#: theme_setup_data.php:284
+msgid "Daily Archive"
+msgstr "Arxiu diari"
+
+#: theme_setup_data.php:285
+msgid "Monthly Archive"
+msgstr "Arxiu mensual"
+
+#: theme_setup_data.php:286
+msgid "Yearly Archive"
+msgstr "Arxiu anual"
+
+#: functions/customizer/customizer_banner.php:23 theme_setup_data.php:287
+msgid "Category Archive"
+msgstr "Arxiu de categories"
+
+#: theme_setup_data.php:288
+msgid "Author Archive"
+msgstr "Arxiu d'autors"
+
+#: theme_setup_data.php:289
+msgid "Tag Archive"
+msgstr "Arxiu d'etiquetes"
+
+#: theme_setup_data.php:290
+msgid "Search Archive"
+msgstr "Arxiu de cerca"
+
+#: functions/customizer/customizer-callout.php:9
+#: functions/customizer/customizer-callout.php:15
+#: functions/customizer/customizer-template.php:540
+msgid "Contact callout settings"
+msgstr "Opcions de la crida a l'acció de contacte"
+
+#: functions/customizer/customizer-callout.php:35
+msgid "Hide callout section from homepage"
+msgstr "Amaga la secció de crida a l'acció de la pàgina d'inici"
+
+#: functions/customizer/customizer-callout.php:137
+#: functions/customizer/customizer-callout.php:196
+#: functions/customizer/customizer-client.php:87
+#: functions/customizer/customizer-template.php:609
+#: functions/meta-box/post-meta.php:32 functions/meta-box/post-meta.php:33
+msgid "Button Text"
+msgstr "Text del botó"
+
+#: functions/customizer/customizer-callout.php:161
+#: functions/customizer/customizer-callout.php:213
+#: functions/customizer/customizer-client.php:104
+#: functions/customizer/customizer-template.php:627
+#: functions/meta-box/post-meta.php:35 functions/meta-box/post-meta.php:36
+msgid "Button Link"
+msgstr "Enllaç del botó"
+
+#: functions/customizer/customizer-callout.php:177
+#: functions/customizer/customizer-callout.php:229
+#: functions/customizer/customizer-client.php:119
+#: functions/customizer/customizer-client.php:172
+#: functions/customizer/customizer-client.php:225
+#: functions/customizer/customizer-client.php:279
+#: functions/customizer/customizer-client.php:333
+#: functions/customizer/customizer-client.php:387
+#: functions/customizer/customizer-client.php:440
+#: functions/customizer/customizer-client.php:495
+#: functions/customizer/customizer-client.php:548
+#: functions/customizer/customizer-copyright.php:113
+#: functions/customizer/customizer-copyright.php:149
+#: functions/customizer/customizer-copyright.php:184
+#: functions/customizer/customizer-copyright.php:220
+#: functions/customizer/customizer-copyright.php:256
+#: functions/customizer/customizer-copyright.php:293
+#: functions/customizer/customizer-copyright.php:329
+#: functions/customizer/customizer-service.php:162
+#: functions/customizer/customizer-service.php:261
+#: functions/customizer/customizer-service.php:359
+#: functions/customizer/customizer-service.php:457
+#: functions/customizer/customizer-service.php:555
+#: functions/customizer/customizer-service.php:653
+#: functions/customizer/customizer-service.php:749
+#: functions/customizer/customizer-service.php:844
+#: functions/customizer/customizer-service.php:942
+#: functions/customizer/customizer-template.php:643
+#: functions/meta-box/post-meta.php:38 functions/meta-box/post-meta.php:59
+#: functions/meta-box/post-meta.php:63 functions/meta-box/post-meta.php:67
+#: functions/meta-box/post-meta.php:98 functions/widgets/header-widget.php:106
+msgid "Open link in new tab"
+msgstr "Obre l'enllaç en una pestanya nova"
+
+#: functions/customizer/customizer-client.php:126
+msgid "Client section one"
+msgstr "Primera secció Client"
+
+#: functions/customizer/customizer-client.php:179
+msgid "Client section two"
+msgstr "Segona secció Client"
+
+#: functions/customizer/customizer-client.php:233
+msgid "Client section three"
+msgstr "Tercera secció Client"
+
+#: functions/customizer/customizer-client.php:287
+msgid "Client section four"
+msgstr "Quarta secció Client"
+
+#: functions/customizer/customizer-client.php:341
+msgid "Client section five"
+msgstr "Cinquena secció Client"
+
+#: functions/customizer/customizer-client.php:394
+msgid "Client section six"
+msgstr "Sisena secció Client"
+
+#: functions/customizer/customizer-client.php:447
+msgid "Client section seven"
+msgstr "Setena secció Client"
+
+#: functions/customizer/customizer-client.php:502
+msgid "Client section eight"
+msgstr "Vuitena secció Client"
+
+#: functions/customizer/customizer-footer-callout.php:9
+#: functions/customizer/customizer-footer-callout.php:16
+msgid "Footer callout settings"
+msgstr "Opcions de la llegenda del peu de pàgina"
+
+#: functions/customizer/customizer-footer-callout.php:52
+msgid "Callout Header"
+msgstr "Capçalera de la crida a l'acció"
+
+#: functions/customizer/customizer-footer-callout.php:66
+#: functions/customizer/customizer-footer-callout.php:117
+#: functions/customizer/customizer-footer-callout.php:168
+#: functions/customizer/customizer-service.php:91
+#: functions/customizer/customizer-service.php:190
+#: functions/customizer/customizer-service.php:287
+#: functions/customizer/customizer-service.php:384
+#: functions/customizer/customizer-service.php:483
+#: functions/customizer/customizer-service.php:581
+#: functions/customizer/customizer-service.php:678
+#: functions/customizer/customizer-service.php:774
+#: functions/customizer/customizer-service.php:871
+#: functions/customizer/customizer-template.php:389
+#: functions/customizer/customizer-template.php:440
+#: functions/customizer/customizer-template.php:491
+#: functions/widgets/appointment_info_widget.php:84
+msgid "Icon"
+msgstr "Icona"
+
+#: functions/customizer/customizer-callout.php:52
+#: functions/customizer/customizer-client.php:50
+#: functions/customizer/customizer-footer-callout.php:83
+#: functions/customizer/customizer-footer-callout.php:134
+#: functions/customizer/customizer-footer-callout.php:185
+#: functions/customizer/customizer-news.php:89
+#: functions/customizer/customizer-project.php:51
+#: functions/customizer/customizer-service.php:51
+#: functions/customizer/customizer-service.php:109
+#: functions/customizer/customizer-service.php:208
+#: functions/customizer/customizer-service.php:306
+#: functions/customizer/customizer-service.php:402
+#: functions/customizer/customizer-service.php:501
+#: functions/customizer/customizer-service.php:599
+#: functions/customizer/customizer-service.php:696
+#: functions/customizer/customizer-service.php:792
+#: functions/customizer/customizer-service.php:889
+#: functions/customizer/customizer-template.php:49
+#: functions/customizer/customizer-template.php:406
+#: functions/customizer/customizer-template.php:457
+#: functions/customizer/customizer-template.php:508
+#: functions/customizer/customizer-template.php:575
+#: functions/customizer/customizer-testimonial.php:48
+#: functions/customizer/customizer_banner.php:32
+#: functions/customizer/customizer_banner.php:51
+#: functions/customizer/customizer_banner.php:70
+#: functions/customizer/customizer_banner.php:89
+#: functions/customizer/customizer_banner.php:117
+#: functions/customizer/customizer_banner.php:126
+#: functions/customizer/customizer_banner.php:143
+#: functions/customizer/customizer_banner.php:152
+#: functions/customizer/customizer_banner.php:166
+#: functions/customizer/customizer_banner.php:173
+#: functions/customizer/customizer_banner.php:186
+#: functions/customizer/customizer_banner.php:193
+#: functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "Títol"
+
+#: functions/customizer/customizer-callout.php:67
+#: functions/customizer/customizer-client.php:68
+#: functions/customizer/customizer-footer-callout.php:101
+#: functions/customizer/customizer-footer-callout.php:152
+#: functions/customizer/customizer-footer-callout.php:203
+#: functions/customizer/customizer-news.php:104
+#: functions/customizer/customizer-project.php:66
+#: functions/customizer/customizer-service.php:68
+#: functions/customizer/customizer-service.php:127
+#: functions/customizer/customizer-service.php:226
+#: functions/customizer/customizer-service.php:324
+#: functions/customizer/customizer-service.php:420
+#: functions/customizer/customizer-service.php:520
+#: functions/customizer/customizer-service.php:618
+#: functions/customizer/customizer-service.php:714
+#: functions/customizer/customizer-service.php:810
+#: functions/customizer/customizer-service.php:907
+#: functions/customizer/customizer-template.php:64
+#: functions/customizer/customizer-template.php:424
+#: functions/customizer/customizer-template.php:475
+#: functions/customizer/customizer-template.php:526
+#: functions/customizer/customizer-template.php:591
+#: functions/customizer/customizer-testimonial.php:63
+#: functions/meta-box/post-meta.php:81 functions/meta-box/post-meta.php:83
+#: functions/meta-box/post-meta.php:94
+#: functions/widgets/appointment_info_widget.php:88
+#: functions/widgets/header-widget.php:100
+msgid "Description"
+msgstr "Descripció"
+
+#: functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr "Opcions de la capçalera personalitzada"
+
+#: functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr "Titular de la capçalera"
+
+#: functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr "Text de la capçalera"
+
+#: functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr "Amaga la secció Servei de la pàgina d'inici"
+
+#: functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr "Primera secció Servei"
+
+#: functions/customizer/customizer-client.php:156
+#: functions/customizer/customizer-client.php:209
+#: functions/customizer/customizer-client.php:263
+#: functions/customizer/customizer-client.php:317
+#: functions/customizer/customizer-client.php:371
+#: functions/customizer/customizer-client.php:424
+#: functions/customizer/customizer-client.php:479
+#: functions/customizer/customizer-client.php:532
+#: functions/customizer/customizer-service.php:145
+#: functions/customizer/customizer-service.php:245
+#: functions/customizer/customizer-service.php:343
+#: functions/customizer/customizer-service.php:441
+#: functions/customizer/customizer-service.php:539
+#: functions/customizer/customizer-service.php:637
+#: functions/customizer/customizer-service.php:733
+#: functions/customizer/customizer-service.php:828
+#: functions/customizer/customizer-service.php:926
+#: functions/meta-box/post-meta.php:96 functions/meta-box/post-meta.php:97
+#: functions/widgets/header-widget.php:103
+msgid "Link"
+msgstr "Enllaç"
+
+#: functions/customizer/customizer-service.php:171
+msgid "Service section two"
+msgstr "Segona secció Servei"
+
+#: functions/customizer/customizer-service.php:268
+msgid "Service section three"
+msgstr "Tercera secció Servei"
+
+#: functions/customizer/customizer-service.php:367
+msgid "Service section four"
+msgstr "Quarta secció Servei"
+
+#: functions/customizer/customizer-service.php:465
+msgid "Service section five"
+msgstr "Cinquena secció Servei"
+
+#: functions/customizer/customizer-service.php:562
+msgid "Service section six"
+msgstr "Sisena secció Servei"
+
+#: functions/customizer/customizer-service.php:659
+msgid "Service section seven"
+msgstr "Setena secció Servei"
+
+#: functions/customizer/customizer-service.php:756
+msgid "Service section eight"
+msgstr "Vuitena secció Servei"
+
+#: functions/customizer/customizer-service.php:851
+msgid "Service section nine"
+msgstr "Novena secció Servei"
+
+#: functions/customizer/customizer-slider.php:8
+msgid "Slider settings"
+msgstr "Opcions de la presentació"
+
+#: functions/customizer/customizer-slider.php:33
+msgid "Hide slider from homepage"
+msgstr "Amaga la presentació de la pàgina d'inici"
+
+#: functions/customizer/customizer-slider.php:54
+msgid "Select slider type"
+msgstr "Seleccioneu el tipus de presentació"
+
+#: functions/customizer/customizer-slider.php:76
+msgid "Select category for slider"
+msgstr "Seleccioneu una categoria per a la presentació"
+
+#: functions/customizer/customizer-slider.php:98
+msgid "Select slider animation"
+msgstr "Seleccioneu l'animació de la presentació"
+
+#: functions/customizer/customizer-slider.php:137
+msgid "Input number of slides"
+msgstr "Nombre de diapositives"
+
+#: functions/customizer/customizer-template.php:7
+msgid "Template settings"
+msgstr "Opcions de la plantilla"
+
+#: functions/customizer/customizer-template.php:42 theme_setup_data.php:228
+msgid "Meet our great team"
+msgstr "Coneixeu el nostre equip"
+
+#: functions/customizer/customizer-footer-callout.php:35
+#: functions/customizer/customizer-template.php:127
+#: functions/customizer/customizer-template.php:219
+msgid "Hide footer callout"
+msgstr "Amaga la crida a l'acció del peu de pàgina"
+
+#: functions/customizer/customizer-template.php:229
+msgid "Contact page setting"
+msgstr "Opció de la pàgina Contacte"
+
+#: functions/customizer/customizer-template.php:238
+msgid "Send us a message"
+msgstr "Envieu-nos un missatge"
+
+#: functions/customizer/customizer-template.php:245
+msgid "Contact form title"
+msgstr "Títol del formulari de contacte"
+
+#: functions/customizer/customizer-template.php:270
+msgid "Find the address"
+msgstr "Trobeu l'adreça"
+
+#: functions/customizer/customizer-template.php:360
+msgid "Section title"
+msgstr "Títol de la secció"
+
+#: functions/customizer/customizer-template.php:376
+msgid "Section description"
+msgstr "Descripció de la secció"
+
+#: functions/customizer/customizer-testimonial.php:30
+msgid "Hide testimonials from homepage"
+msgstr "Amaga les recomanacions de la pàgina d'inici"
+
+#: functions/customizer/customizer-testimonial.php:83
+msgid "Animation"
+msgstr "Animació"
+
+#: functions/customizer/customizer-slider.php:118
+#: functions/customizer/customizer-testimonial.php:107
+msgid "Duration"
+msgstr "Duració"
+
+#: functions/customizer/customizer-testimonial.php:121
+msgid "Click here to add testimonial"
+msgstr "Feu clic aquí per a afegir una recomanació"
+
+#: functions/customizer/customizer_banner.php:9
+msgid "Banner settings"
+msgstr "Opcions del bàner"
+
+#: functions/customizer/customizer_banner.php:60
+msgid "Daily archive title"
+msgstr "Títol de l'arxiu diari"
+
+#: functions/customizer/customizer_banner.php:79
+msgid "Monthly archive title"
+msgstr "Títol de l'arxiu mensual"
+
+#: functions/customizer/customizer_banner.php:98
+msgid "Yearly archive title"
+msgstr "Títol de l'arxiu anual"
+
+#: functions/customizer/customizer_theme_style.php:169
+msgid "Enable custom color skin"
+msgstr "Activa el color personalitzat de l'aparença"
+
+#: functions.php:124 functions/customizer/customizer-copyright.php:167
+#: functions/customizer/customizer-header.php:291
+#: functions/meta-box/post-meta.php:65 functions/meta-box/post-meta.php:66
+msgid "LinkedIn URL"
+msgstr "URL de LinkedIn"
+
+#: functions/widgets/header-widget.php:98
+msgid "Find all icons"
+msgstr "Trobeu totes les icones"
+
+#: functions/widgets/appointment_info_widget.php:86
+#: functions/widgets/header-widget.php:98
+msgid "here"
+msgstr "aquí"
+
+#: functions.php:125 functions/customizer/customizer-copyright.php:203
+#: functions/customizer/customizer-header.php:329
+msgid "GooglePlus URL"
+msgstr "URL de GooglePlus"
+
+#: functions/customizer/customizer-layout.php:36
+msgid "Note"
+msgstr "Nota"
+
+#: functions/customizer/customizer-post-type-slugs.php:51
+msgid "Portfolio category slug"
+msgstr "Resum de la categoria del portafolis"
+
+#: functions/customizer/customizer-client.php:14
+#: functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr "Capçalera de la secció"
+
+#: functions/customizer/customizer-post-type-slugs.php:15
+msgid "Post type slugs setting"
+msgstr "Opció dels resums de tipus de publicació"
+
+#: functions/widgets/sidebars.php:7 functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr "Àrea del giny de la barra lateral"
+
+#: functions/customizer/customizer-client.php:77 theme_setup_data.php:144
+msgid "See case studies"
+msgstr "Mostra els casos d'estudi"
+
+#: functions/customizer/customizer-header.php:469
+#: functions/customizer/customizer-header.php:482
+msgid "Custom CSS"
+msgstr "CSS personalitzat"
+
+#: archive.php:22
+msgid "Blog Archive"
+msgstr "Arxiu del blog"
+
+#: comments.php:24
+msgid "Posted on"
+msgstr "Publicat al"
+
+#: index-slider.php:66
+msgid "Video format"
+msgstr "Format de vídeo"
+
+#: single.php:17
+msgid "About the author"
+msgstr "Quant a l'autor"
+
+#: functions/customizer/customizer-service.php:42 theme_setup_data.php:50
+msgid "Our services"
+msgstr "Els nostres serveis"
+
+#: functions/customizer/customizer-service.php:100
+#: functions/customizer/customizer-service.php:199
+#: functions/customizer/customizer-service.php:297
+#: functions/customizer/customizer-service.php:393
+#: functions/customizer/customizer-service.php:492
+#: functions/customizer/customizer-service.php:590 theme_setup_data.php:53
+#: theme_setup_data.php:56 theme_setup_data.php:59 theme_setup_data.php:62
+#: theme_setup_data.php:65 theme_setup_data.php:68
+msgid "Easy to use"
+msgstr "Fàcil d'utilitzar"
+
+#: functions/customizer/customizer-callout.php:45 theme_setup_data.php:101
+msgid "Want to say hey or find out more?"
+msgstr "Voleu saludar o més informació?"
+
+#: functions/customizer/customizer-project.php:44 theme_setup_data.php:118
+msgid "Latest projects"
+msgstr "Últims projectes"
+
+#: functions/customizer/customizer-template.php:448 theme_setup_data.php:256
+msgid "Our office location"
+msgstr "La ubicació de la nostra oficina"
+
+#: functions/customizer/customizer-client.php:8
+msgid "Client settings"
+msgstr "Opcions del client"
+
+#: functions/customizer/customizer-client.php:138
+#: functions/customizer/customizer-client.php:191
+#: functions/customizer/customizer-client.php:245
+#: functions/customizer/customizer-client.php:299
+#: functions/customizer/customizer-client.php:353
+#: functions/customizer/customizer-client.php:406
+#: functions/customizer/customizer-client.php:459
+#: functions/customizer/customizer-client.php:514
+msgid "Image"
+msgstr "Imatge"
+
+#: functions/customizer/customizer-copyright.php:7
+#: functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr "Opcions dels drets d'autor al peu"
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Amaga les icones socials del peu de pàgina"
+
+#: functions/customizer/customizer-copyright.php:312
+#: functions/customizer/customizer-header.php:442
+msgid "YouTube URL"
+msgstr "URL de YouTube"
+
+#: functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr "Opcions de la capçalera"
+
+#: functions/customizer/customizer-project.php:8
+msgid "Project settings"
+msgstr "Opcions del projecte"
+
+#: functions/customizer/customizer-project.php:79
+msgid "Select category for project"
+msgstr "Seleccioneu una categoria per al projecte"
+
+#: functions/customizer/customizer-project.php:99
+msgid "Input number of projects"
+msgstr "Nombre de projectes"
+
+#: functions/customizer/customizer-project.php:113
+msgid "Click here to add project"
+msgstr "Feu clic aquí per a afegir un projecte"
+
+#: functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr "Opcions del servei"
+
+#: functions/customizer/customizer-slider.php:57
+msgid "Demo slider"
+msgstr "Presentació de demostració"
+
+#: functions/customizer/customizer-slider.php:58
+msgid "Category slider"
+msgstr "Presentació de categories"
+
+#: functions/customizer/customizer-template.php:77
+msgid "Click here to add team member"
+msgstr "Feu clic aquí per a afegir un membre de l'equip"
+
+#: functions/customizer/customizer_banner.php:14
+msgid "Category"
+msgstr "Categoria"
+
+#: functions/customizer/customizer_banner.php:41
+msgid "Archive"
+msgstr "Arxiu"
+
+#: functions/customizer/customizer_banner.php:108
+msgid "Author"
+msgstr "Autor"
+
+#: functions/customizer/customizer_banner.php:134
+msgid "Tag"
+msgstr "Etiqueta"
+
+#: functions/customizer/customizer_banner.php:160 searchform.php:2
+msgid "Search"
+msgstr "Cerca"
+
+#: functions/customizer/customizer_banner.php:180
+msgid "Portfolio category"
+msgstr "Categoria del portafolis"
+
+#: functions/customizer/customizer_theme_style.php:42
+msgid "Predefined default background"
+msgstr "Fons predefinit"
+
+#: functions/customizer/customizer_theme_style.php:132
+msgid "Predefined colors"
+msgstr "Colors predefinits"
+
+#: functions/customizer/customizer_theme_style.php:187
+msgid "Skin color"
+msgstr "Color de l'aparença"
+
+#: functions/meta-box/post-meta.php:6
+msgid "Testimonial Details"
+msgstr "Detalls de la recomanació"
+
+#: functions/meta-box/post-meta.php:8
+msgid "Service Details"
+msgstr "Detalls del servei"
+
+#: functions/meta-box/post-meta.php:10
+msgid "Portfolio Details"
+msgstr "Detalls del portafolis"
+
+#: functions/meta-box/post-meta.php:53 functions/meta-box/post-meta.php:54
+#: functions/meta-box/post-meta.php:79 functions/meta-box/post-meta.php:80
+msgid "Designation"
+msgstr "Designació"
+
+#: functions/post-type/custom-post-type.php:11
+#: functions/post-type/custom-post-type.php:13
+#: functions/post-type/custom-post-type.php:48
+#: functions/post-type/custom-post-type.php:50
+#: functions/post-type/custom-post-type.php:83
+#: functions/post-type/custom-post-type.php:85
+msgid "Add New"
+msgstr "Afegeix"
+
+#: functions/post-type/custom-post-type.php:12
+msgid "Add New Testimonial"
+msgstr "Afegeix una recomanació"
+
+#: functions/post-type/custom-post-type.php:15
+msgid "All Testimonials"
+msgstr "Totes les recomanacions"
+
+#: functions/post-type/custom-post-type.php:49
+msgid "Add New Portfolio / Project"
+msgstr "Afegeix un portafolis / projecte"
+
+#: functions/post-type/custom-post-type.php:84
+msgid "Add New Team"
+msgstr "Afegeix un equip"
+
+#: functions/post-type/custom-post-type.php:87
+msgid "All Teams"
+msgstr "Tots els equips"
+
+#: functions/widgets/sidebars.php:16 functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr "Àrea del giny del peu de pàgina"
+
+#: functions/widgets/sidebars.php:27 functions/widgets/sidebars.php:29
+msgid "Top header left area"
+msgstr "Àrea esquerra de la capçalera superior"
+
+#: functions/widgets/sidebars.php:37 functions/widgets/sidebars.php:39
+msgid "Top header center area"
+msgstr "Àrea central de la capçalera superior"
+
+#: functions/widgets/sidebars.php:47 functions/widgets/sidebars.php:49
+msgid "Top header right area"
+msgstr "Àrea dreta de la capçalera superior"
+
+#: functions/widgets/sidebars.php:57 functions/widgets/sidebars.php:59
+msgid "Left widget area below slider"
+msgstr "Àrea esquerra del giny sota la presentació"
+
+#: functions/widgets/sidebars.php:66 functions/widgets/sidebars.php:68
+msgid "Right widget area below slider"
+msgstr "Àrea dreta del giny sota la presentació"
+
+#: functions/widgets/sidebars.php:75 functions/widgets/sidebars.php:77
+msgid "Center widget area below slider"
+msgstr "Àrea central del giny sota la presentació"
+
+#: functions/customizer/customizer-client.php:32
+msgid "Hide client section from homepage"
+msgstr "Amaga la secció Client de la pàgina d'inici"
+
+#: functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr "Opcions del logotip de la capçalera"
+
+#: functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr "Activa/Desactiva el logotip"
+
+#: functions/customizer/customizer-project.php:14
+msgid "Homepage project settings"
+msgstr "Opcions del projecte de la pàgina d'inici"
+
+#: functions/customizer/customizer-project.php:33
+msgid "Hide project section from homepage"
+msgstr "Amaga la secció Projecte de la pàgina d'inici"
+
+#: functions/customizer/customizer-slider.php:14
+msgid "Featured slider settings"
+msgstr "Opcions de la presentació destacada"
+
+#: functions/customizer/customizer-testimonial.php:14
+msgid "Homepage testimonial settings"
+msgstr "Opcions de les recomanacions a la pàgina d'inici"
+
+#: functions/customizer/customizer_theme_style.php:105
+msgid "Predefined default backgrounds"
+msgstr "Fons predeterminats"
+
+#: functions/customizer/customizer-callout.php:79
+#: functions/customizer/customizer-template.php:655
+#: functions/customizer/customizer-testimonial.php:147
+msgid "Background Image"
+msgstr "Imatge de fons"
+
+#: functions/customizer/customizer-callout.php:92
+#: functions/customizer/customizer-template.php:668
+msgid "Background Position"
+msgstr "Posició del fons"
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Enllaços socials"
+
+#: functions/customizer/customizer-header.php:176
+msgid "Social links"
+msgstr "Enllaços socials"
+
+#: functions/customizer/customizer-post-type-slugs.php:26
+msgid "Team slug"
+msgstr "Resum de l'equip"
+
+#: functions/customizer/customizer-post-type-slugs.php:64
+msgid "Testimonial slug"
+msgstr "Resum de Recomanacions"
+
+#: functions/customizer/customizer-post-type-slugs.php:88
+msgid "Appointment slug"
+msgstr "Resum de la cita"
+
+#: functions/customizer/customizer-project.php:145
+msgid "Select project category archive column layout"
+msgstr "Seleccioneu el disseny de la columna de l'arxiu de categories de projecte"
+
+#: functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR: Giny d'informació"
+
+#: functions/widgets/header-widget.php:14
+msgid "WBR : Header Widget"
+msgstr "WBR: Giny de la capçalera"
+
+#: 404.php:12
+msgid "Go back"
+msgstr "Vés enrere"
+
+#: comments.php:40
+msgid "No comments so far"
+msgstr "Encara no hi ha cap comentari"
+
+#: comments.php:40
+msgid "1 comment so far"
+msgstr "1 comentari fins ara"
+
+#: comments.php:40
+msgid "comments so far"
+msgstr "comentaris fins ara"
+
+#: comments.php:57
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Heu d'estar <a href=\"%s\">connectat</a> per a publicar un comentari."
+
+#: comments.php:75
+msgid "Log out from this Account"
+msgstr "Tanca aquesta sessió"
+
+#: comments.php:75
+msgid "Log out"
+msgstr "Desconnecta"
+
+#: index-slider.php:28 index-slider.php:36 index-slider.php:43
+msgid "This is a very powerful theme that can be used for any type of business. The layout is clean and elegant."
+msgstr "Aquest és un tema molt potent que es pot usar per a qualsevol tipus de negoci. El disseny és net i elegant."
+
+#: search.php:37
+msgid "Nothing found"
+msgstr "No s'ha trobat res"
+
+#: functions/customizer/customizer-testimonial.php:41 theme_setup_data.php:131
+msgid "What our clients say"
+msgstr "Què diuen els nostres clients"
+
+#: functions/customizer/customizer-template.php:369
+#: functions/customizer/customizer-testimonial.php:56 theme_setup_data.php:132
+#: theme_setup_data.php:248
+msgid "Read what our customers are saying:"
+msgstr "Llegiu què diuen els nostres clients:"
+
+#: functions/customizer/customizer-client.php:41 theme_setup_data.php:142
+msgid "We work for the best clients"
+msgstr "Treballem per als millors clients"
+
+#: functions/customizer/customizer-news.php:82 theme_setup_data.php:183
+msgid "Latest News"
+msgstr "Últimes notícies"
+
+#: functions/customizer/customizer-footer-callout.php:125
+#: theme_setup_data.php:195
+msgid "We are open Mon - Fri"
+msgstr "Obrim de Dilluns a Divendres"
+
+#: functions/customizer/customizer-template.php:57 theme_setup_data.php:229
+msgid "We create themes with our customers in mind, therefore our team works hard to provide you with the best technical support."
+msgstr "Creem temes tenint en compte als nostres clients, per tant el nostre equip treballa de valent per proporcionar-vos la millor assistència tècnica."
+
+#: functions/customizer/customizer-template.php:584 theme_setup_data.php:265
+msgid "Be creative with our template, there are hundreds of options and possibilities. Do not miss this unique opportunity to profit from this great template."
+msgstr "Sigueu creatiu amb la nostra plantilla, hi ha centenars d'opcions i possibilitats. No perdeu aquesta oportunitat única d'aprofitar-vos d'aquesta genial plantilla."
+
+#: functions/customizer/customizer-footer-callout.php:143
+msgid ": Mon - Fri : 08.00 - 18.00"
+msgstr ": Dl. - Dv.: 08:00 - 18:00"
+
+#: functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr "Pugeu una imatge per al logotip de 150x150"
+
+#: functions/customizer/customizer-header.php:104
+msgid "Enter Logo width"
+msgstr "Introduïu l'amplada del logotip"
+
+#: functions/customizer/customizer-header.php:123
+msgid "Enter Logo height"
+msgstr "Introduïu l'alçada del logotip"
+
+#: functions/customizer/customizer-header.php:153
+msgid "Site Favicon"
+msgstr "Icona del lloc"
+
+#: functions/customizer/customizer-header.php:196
+msgid "Hide Header Social Icons"
+msgstr "Amaga les icones socials de la capçalera"
+
+#: functions/customizer/customizer-layout.php:35
+msgid "Slider has fixed position on homepage."
+msgstr "La presentació té una posició fixa a la pàgina d'inici."
+
+#: functions/customizer/customizer-layout.php:36
+msgid "By default, all the sections are enabled on the homepage. If you do not want to display any section just drag that section to the disabled box."
+msgstr "Per defecte, totes les seccions són activades a la pàgina d'inici. Si no voleu mostrar-ne cap, arrossegueu-les a la caixa de desactivades."
+
+#: functions/customizer/customizer-layout.php:86
+#: functions/customizer/customizer-layout.php:91
+msgid "Theme Layout Manager"
+msgstr "Gestor del disseny del tema"
+
+#: functions/customizer/customizer-news.php:8
+msgid "Latest News settings"
+msgstr "Opcions de les Últimes Notícies"
+
+#: functions/customizer/customizer-news.php:14
+msgid "Latest News Settings"
+msgstr "Opcions de les Últimes Notícies"
+
+#: functions/customizer/customizer-news.php:34
+msgid "Hide News section from homepage"
+msgstr "Amaga la secció Notícies de la pàgina d'inici"
+
+#: functions/customizer/customizer-news.php:53
+msgid "Show slider post in Latest News"
+msgstr "Mostra una presentació de publicacions a les últimes notícies"
+
+#: functions/customizer/customizer-news.php:72
+msgid "Hide post meta from News section"
+msgstr "Amaga les metadades de les publicacions de la secció Notícies"
+
+#: functions/customizer/customizer-news.php:121
+msgid "Select category for Latest News"
+msgstr "Seleccioneu una categoria per a les Últimes Notícies"
+
+#: functions/customizer/customizer-news.php:141
+msgid "Select the Number of Posts"
+msgstr "Seleccioneu el nombre de publicacions"
+
+#: functions/customizer/customizer-post-type-slugs.php:38
+msgid "Portfolio slug"
+msgstr "Resum del portafolis"
+
+#: functions/customizer/customizer-post-type-slugs.php:73
+msgid "After changing the slug, please do not forget to save the permalinks. Without saving, the old permalinks will not update."
+msgstr "En canviar el resum, no us oblideu de desar els enllaços permanents. Si no ho feu, els enllaços permanents antics no s'actualitzaran."
+
+#: functions/customizer/customizer-post-type-slugs.php:101
+msgid "Click here for permalinks settings"
+msgstr "Feu clic aquí per a configurar els enllaços permanents."
+
+#: functions/customizer/customizer-slider.php:100
+#: functions/customizer/customizer-testimonial.php:85
+msgid "Slide"
+msgstr "diapositiva"
+
+#: functions/customizer/customizer-slider.php:100
+#: functions/customizer/customizer-testimonial.php:85
+msgid "Fade"
+msgstr "esvaïment"
+
+#: functions/customizer/customizer-slider.php:152
+msgid "Show slider post in blog pages, archive page, category page, etc."
+msgstr "Mostra la presentació de publicacions a les pàgines del blog, de l'arxiu, de les categories, etc."
+
+#: functions/customizer/customizer-template.php:33
+msgid "Hide team section from About Us page"
+msgstr "Amaga la secció Equip de la pàgina «Qui som»"
+
+#: functions/customizer/customizer-template.php:110
+msgid "Hide client section from About Us page"
+msgstr "Amaga la secció Client de la pàgina «Qui som»"
+
+#: functions/customizer/customizer-template.php:135
+msgid "Blog page settings"
+msgstr "Opcions de la pàgina del blog"
+
+#: functions/customizer/customizer-template.php:152
+msgid "Hide post meta from blog pages, archive pages, categories, author, etc."
+msgstr "Amaga les metadades de les publicacions de les pàgines del blog, de l'arxiu, de les categories, autor, etc."
+
+#: functions/customizer/customizer-template.php:162
+msgid "Service page settings"
+msgstr "Opcions de la pàgina Serveis"
+
+#: functions/customizer/customizer-template.php:182
+msgid "Hide Testimonial section"
+msgstr "Amaga la secció Recomanacions"
+
+#: functions/customizer/customizer-template.php:201
+msgid "Hide Client section"
+msgstr "Amaga la secció Client"
+
+#: functions/customizer/customizer-template.php:260
+msgid "Hide Google Map"
+msgstr "Amaga el mapa de Google"
+
+#: functions/customizer/customizer-template.php:277
+msgid "Contact Google Map title"
+msgstr "Títol del mapa de Google de contacte"
+
+#: functions/customizer/customizer-template.php:292
+msgid "Google Map URL"
+msgstr "URL del mapa de Google"
+
+#: functions/customizer/customizer-template.php:306
+msgid "Click here to add Google Map"
+msgstr "Feu clic aquí per afegir un mapa de Google"
+
+#: functions/customizer/customizer-template.php:329
+msgid "Contact information settings"
+msgstr "Opcions de la informació de contacte"
+
+#: functions/customizer/customizer-testimonial.php:8
+msgid "Testimonials settings"
+msgstr "Opcions de les recomanacions"
+
+#: functions/customizer/customizer-testimonial.php:106
+msgid "If the transition-delay value is 2000, this means 2 seconds."
+msgstr "Si el valor del retard de la transició és 2000, significa 2 segons."
+
+#: functions/customizer/customizer_theme_style.php:71
+msgid "Theme style settings"
+msgstr "Opcions de l'estil del tema"
+
+#: functions/meta-box/post-meta.php:12
+msgid "Team Details"
+msgstr "Detalls de l'equip"
+
+#: functions/meta-box/post-meta.php:28
+msgid "The settings mentioned below will only work for posts that are shown in a slider."
+msgstr "Les opcions de sota només funcionaran per a les publicacions que es mostren a la presentació."
+
+#: functions/meta-box/post-meta.php:28
+msgid "By default, the Read More Button will take you to the single view of a post. But if you want to add a custom link to the Read More then use the settings below."
+msgstr "Per defecte, el botó «Llegiu més» us durà a la vista senzilla de la publicació. Si voleu afegir un enllaç personalitzat al botó, utilitzeu les opcions de sota."
+
+#: functions/meta-box/post-meta.php:56
+msgid "Social media settings"
+msgstr "Opcions de les xarxes socials"
+
+#: functions/post-type/custom-post-type.php:52
+msgid "All Portfolios / Projects"
+msgstr "Tots els portafolis / projectes"
+
+#: functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr "Giny d'informació del tema Appointment"
+
+#: functions/widgets/appointment_info_widget.php:86
+msgid "Get your Font Awesome"
+msgstr "Obteniu les «Font Awesome»"
+
+#: functions/widgets/header-widget.php:96
+msgid "Font Awesome icon"
+msgstr "Icona «Font Awesome»"
+
+#: functions/widgets/sidebars.php:86 functions/widgets/sidebars.php:88
+msgid "WooCommerce sidebar widget area"
+msgstr "Àrea del giny de la barra lateral del Woocommerce"
+
+#: functions/customizer/customizer-header.php:166
+msgid "Upload a Favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Pugeu una icona de web (les mides ideals són 16x16 o 32x32)"
+
+#: functions/customizer/customizer-post-type-slugs.php:10
+msgid "SEO Friendly URL"
+msgstr "URL optimitzada per a SEO"
+
+#: functions/customizer/customizer-template.php:14
+msgid "About Us page settings"
+msgstr "Opcions de la pàgina «Qui som»"
+
+#: functions/customizer/customizer-template.php:353
+#: functions/customizer/customizer-template.php:568 theme_setup_data.php:247
+msgid "Contact Info"
+msgstr "Informació de contacte"
+
+#: functions/customizer/customizer-header.php:155
+msgid "Upload a Favicon"
+msgstr "Pugeu una icona de web"
+
+#: functions/customizer/customizer-template.php:345
+msgid "Hide Contact Info section from Contact page"
+msgstr "Amaga la secció «Informació de contacte» a la pàgina de contacte"
+
+#: functions/customizer/customizer-template.php:559
+msgid "Hide contact callout from Contact Page"
+msgstr "Amaga la crida a l'acció de contacte de la pàgina de contacte"
+
+#: functions.php:265
+msgid "Click the large blue button to start the dummy data import process.</br></br>Please be patient while WordPress imports all the content.</br></br>\n"
+"\t\t\t<h3>Recommended Plugins</h3>Appointment theme supports the following plugins:</br> </br><li> <a href=\"https://wordpress.org/plugins/contact-form-7/\"> Contact form 7</a> </l1> </br> <li> <a href=\"https://wordpress.org/plugins/woocommerce/\"> WooCommerce </a> </li><li><a href=\"https://wordpress.org/plugins/easy-bootstrap-shortcodes/\"> Easy Bootstrap Shortcode </a></li><li> <a href=\"https://wordpress.org/plugins/jetpack/\"> Jetpack </a></li><li> <a href=\"https://wordpress.org/plugins/wp-google-maps/\"> WP Google Maps </a></li>"
+msgstr "Feu clic al botó blau gran per a començar el procés d'importació del contingut de mostra.</br></br>Tingueu paciència mentre el WordPress importat tot el contingut.</br></br>\n"
+"\t\t\t<h3>Extensions recomanades</h3>El tema Appointment és compatible amb les extensions següents:</br> </br><li> <a href=\"https://wordpress.org/plugins/contact-form-7/\"> Contact form 7</a> </l1> </br> <li> <a href=\"https://wordpress.org/plugins/woocommerce/\"> WooCommerce </a> </li><li><a href=\"https://wordpress.org/plugins/easy-bootstrap-shortcodes/\"> Easy Bootstrap Shortcode </a></li><li> <a href=\"https://wordpress.org/plugins/jetpack/\"> Jetpack </a></li><li> <a href=\"https://wordpress.org/plugins/wp-google-maps/\"> WP Google Maps </a></li>"
+
+#: functions/appointment-info/sections/import-data.php:11
+msgid "Install Now"
+msgstr "Instal·la-ho ara"
+
+#: functions/appointment-info/sections/import-data.php:34
+msgid "Active Now"
+msgstr "Activa-ho ara"
+
+#: functions/appointment-info/sections/import-data.php:50
+msgid "Importing Dummy Content"
+msgstr "S'està important el contingut de mostra"
+
+#: functions/appointment-info/sections/import-data.php:51
+msgid "<p><strong>One Click Demo Import</strong> is the WordPress Plugin which helps in creating the exact replica of our demo site. Just click the button to proceed further.</p>"
+msgstr "<p><strong>La importació de la demostració en un clic</strong> és una extensió del WordPress que us ajuda a crear una rèplica exacta del nostre lloc de demostració. Només heu de fer clic al botó per a començar.</p>"
+
+#: functions/appointment-info/sections/import-data.php:52
+msgid "Key Notes:"
+msgstr "Notes clau:"
+
+#: functions/appointment-info/sections/import-data.php:54
+msgid "Click the button to install the plugin. Ignore if already installed."
+msgstr "Feu clic al botó per a instal·lar l'extensió. Ignoreu-ho si ja ho heu fet."
+
+#: functions/appointment-info/sections/import-data.php:55
+msgid "Activate the plugin so that they can read the dummy data files from the theme folder and import the content for you."
+msgstr "Activeu l'extensió perquè pugui llegir i importar els fitxers amb el contingut de mostra a la carpeta del tema."
+
+#: functions/appointment-info/welcome-screen.php:62
+msgid "Import Demo Data"
+msgstr "Importa les dades de demostració"
+
+#: functions/appointment-info/welcome-screen.php:106
+msgid "Hooray! There are no required actions for you right now."
+msgstr "No cal que realitzeu cap acció ara mateix."
+
+#: functions/appointment-info/welcome-screen.php:143
+msgid "View Theme Info"
+msgstr "Mostra la informació del tema"
+
+#: functions/appointment-info/welcome-screen.php:213
+msgid "One Click Demo Import"
+msgstr "Importació de la demostració en un clic"
+
+#: header.php:184
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d element"
+msgstr[1] "%d elements"
+
+#. Theme Name of the plugin/theme
+#: 
+msgid "Appointment Pro"
+msgstr "Appointment Pro"
+
+#. Theme URI of the plugin/theme
+#: 
+msgid "https://wordpress.org/themes/"
+msgstr "https://wordpress.org/themes/"
+
+#. Description of the plugin/theme
+#: 
+msgid "A responsive theme for all types of business that use multiple nav menus, several sidebars, etc."
+msgstr "Un tema responsiu per a tot tipus de negocis que utilitza menús de navegació múltiples, diverses barres laterals, etc."
+
+#. Author of the plugin/theme
+#: 
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Author URI of the plugin/theme
+#: 
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: functions/appointment-info/sections/import-data.php:56
+msgid "After activation go to Appearance >> Import Demo Data."
+msgstr "En fer l'activació, aneu a Aparença >> Importa les dades de demostració."
+
+#: functions/appointment-info/welcome-screen.php:53
+msgid "Welcome! Thank you for choosing Appointment To take full advantage of the best our theme can offer, please make sure you visit our %swelcome page%s."
+msgstr "Benvinguts! Gràcies per triar l'Appointment. Per a poder aprofitar-vos de tot el que el tema us pot oferir, assegureu-vos de visitar la %spàgina de benvinguda%s."
+
+#: functions/appointment-info/welcome-screen.php:54
+msgid "Get started with Appointment"
+msgstr "Primers passos amb l'Appointment"
+
+#: functions/appointment-info/welcome-screen.php:62
+msgid "Save time by importing our demo data, your website will be set up and ready to customise in minutes. %s"
+msgstr "Importeu les dades de demostració per a estalviar temps, en qüestió de minuts tindreu el lloc web preparat per a personalitzar-lo. %s"
+

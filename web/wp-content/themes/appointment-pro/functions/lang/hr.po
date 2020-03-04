@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Appointment WordPress Theme\n"
+"Language: hr\n"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/404.php:10
+msgid "Oops! Page not found"
+msgstr "Ups! Stranica nije pronađena"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/about.php:106
+msgid "FOUNDER"
+msgstr "OSNIVAČ"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/about.php:106
+msgid "DESIGNER"
+msgstr "DIZAJNER"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/about.php:106
+msgid "DEVELOPER"
+msgstr "PROGRAMER"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Ova objava je zaštićena lozinkom. Upišite lozinku kako bi vidjeli komentare."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:12
+msgid "Reply"
+msgstr "Odgovor"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:26
+msgid "Edit"
+msgstr "Uredi"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "Vaš komentar čeka moderaciju."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:47
+msgid "Comment navigation"
+msgstr "Navigacija komentara"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:48
+msgid "&larr; Older Comments"
+msgstr "&larr; Stariji komentari"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr "Noviji komentari &rarr;"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:53
+msgid "Comments are closed."
+msgstr "Komentari su zatvoreni."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:77
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/contact.php:54
+msgid "Send Message"
+msgstr "Pošalji poruku"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:80
+msgid "Leave a Reply"
+msgstr "Napiši odgovor"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/content-slider-video.php:47
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/content.php:40
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions.php:173
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-slider.php:29
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-slider.php:68
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-slider.php:180
+msgid "Read More"
+msgstr "Pročitaj više"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions.php:69
+msgid "Primary Menu"
+msgstr "Primarni izbornik"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions.php:105
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/breadcrumbs/breadcrumbs.php:108
+msgid "Page"
+msgstr "Stranica"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-news.php:52
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/template-tags.php:33
+msgid "By"
+msgstr "Autor"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-slider.php:27
+msgid "Powerful Bootstrap Theme"
+msgstr "Moćna Bootstrap tema"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-testimonial.php:1
+msgid "Design is a funny word. Some people think design means how it looks. But of course, if you dig deeper, it's really how it works."
+msgstr "Dizajn je smiješna riječ. Neki ljudi misle da dizajn znači samo izgled. Ali naravno, ako kopate dublje, zapravo je način kako kako nešto funkcionira."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/search.php:38
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Nažalost, ništa se ne podudara s vašim kriterijem pretrage.  Pokušajte ponovno s nekim drugim ključnim riječima."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:106
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:266
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:127
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:599
+msgid "Purchase Now"
+msgstr "Kupi sad"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:119
+msgid "Explore the works of our members"
+msgstr "Istražite radove naših članova"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:190
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:45
+msgid "Stay in touch with us"
+msgstr "Ostanite u kontaktu"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:191
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:252
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:74
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:397
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:42
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:63
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:82
+msgid "Have a question? Call us now"
+msgstr "Imate pitanje? Nazovite nas"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:206
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:23
+msgid "No copyright information has been saved yet."
+msgstr "Još nisu spremljene nikakve informacije o autorskim pravima."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:246
+msgid "<b>Send Us</b> a Message"
+msgstr "<b>Pošaljite nam</b> poruku"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:275
+msgid "<b>Find</b> the Address"
+msgstr "<b>Pronađite</b> adresu"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:291
+msgid "Portfolio Categories"
+msgstr "Kategorije portfolia"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/breadcrumbs/breadcrumbs.php:6
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr "Početna"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/breadcrumbs/breadcrumbs.php:25
+msgid "Archive by category"
+msgstr "Arhive po kategorijama"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/breadcrumbs/breadcrumbs.php:28
+msgid "Search results for"
+msgstr "Rezultati pretrage za"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/breadcrumbs/breadcrumbs.php:95
+msgid "Posts tagged"
+msgstr "Objava označena"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/breadcrumbs/breadcrumbs.php:100
+msgid "Articles posted by"
+msgstr "Članci od autora"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/404.php:9
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/breadcrumbs/breadcrumbs.php:103
+msgid "Error 404"
+msgstr "Greška 404"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/custom-controls/select/taxonomy-dropdown-custom-control.php:35
+msgid "None"
+msgstr "Ništa"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:160
+msgid "Background attachment"
+msgstr "Pozadinski privitak"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:108
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:684
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:176
+msgid "Enable overlay"
+msgstr "Omogući prekrivanje"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:119
+msgid "Button one"
+msgstr "Dugme jedan"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:145
+msgid "Button two"
+msgstr "Dugme dva"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr "Tekst autorskih prava"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Sakrij tekst autorskih prava"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions.php:119
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:96
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:218
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:57
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:58
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions.php:120
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:132
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:255
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:61
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:62
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:239
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:404
+msgid "Skype URL"
+msgstr "Skype URL"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:276
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:367
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr "Prikaži teksta logotipa"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-layout.php:20
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-layout.php:122
+msgid "Enable"
+msgstr "Omogući"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-layout.php:139
+msgid "Disable"
+msgstr "Onemogući"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:96
+msgid "2000"
+msgstr "2000"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_theme_style.php:79
+msgid "wide"
+msgstr "široko"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_theme_style.php:90
+msgid "Theme Layout"
+msgstr "Raspored teme"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:14
+msgid "Customize Read More Button in slider"
+msgstr "Prilagodi dugme Pročitaj više u vrtuljku"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:30
+msgid "Show Read More Button"
+msgstr "Prikaži dugme Pročitaj više"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:14
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:51
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:86
+msgid "New Link"
+msgstr "Nova poveznica"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:16
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:53
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:88
+msgid "View Link"
+msgstr "Prikaži poveznicu"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:17
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:54
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:89
+msgid "Search Links"
+msgstr "Poveznice pretrage"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:18
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:55
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:90
+msgid "No Links found"
+msgstr "Poveznice nisu pronađene"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:19
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:56
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:91
+msgid "No Links found in Trash"
+msgstr "Poveznice nisu pronađene u Smeću"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/header-widget.php:76
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/header-widget.php:101
+msgid "Make a reservation: 1-800-123-4567"
+msgstr "Napravite rezervaciju: 1-800-123-4567"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Nažalost, stranica koju tražite ne postoji."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:74
+msgid "Leave your message"
+msgstr "Ostavite svoju poruku"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:75
+msgid "Logged in as"
+msgstr "Prijavljeni kao"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/contact.php:32
+msgid "Thank you"
+msgstr "Hvala"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/contact.php:32
+msgid "Your information has been sent."
+msgstr "Vaše informacije su poslane."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:64
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/contact.php:43
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/contact.php:44
+msgid "Name"
+msgstr "Ime"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:65
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/contact.php:47
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/contact.php:48
+msgid "Email"
+msgstr "E-pošta"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/contact.php:51
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/contact.php:52
+msgid "Message"
+msgstr "Poruka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-slider.php:67
+msgid "This is an example of a video post format displayed in the featured slider with an excerpt added."
+msgstr "Ovo je primjer formata video objave prikazane u istaknutom vrtuljku s dodanim sažetkom."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:109
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:186
+msgid "Get in Touch"
+msgstr "Ostanimo u kontaktu"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:200
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:260
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:176
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:499
+msgid "Drop us a mail"
+msgstr "Pošaljite nam poruku e-poštom"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:264
+msgid "Contact Information"
+msgstr "Kontakt informacije"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:284
+msgid "Daily Archive"
+msgstr "Dnevne arhive"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:285
+msgid "Monthly Archive"
+msgstr "Mjesečne arhive"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:286
+msgid "Yearly Archive"
+msgstr "Godišnje arhive"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:287
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:23
+msgid "Category Archive"
+msgstr "Arhiva kategorije"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:288
+msgid "Author Archive"
+msgstr "Arhiva autora"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:289
+msgid "Tag Archive"
+msgstr "Arhiva oznake"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:290
+msgid "Search Archive"
+msgstr "Arhiva pretrage"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:9
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:15
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:540
+msgid "Contact callout settings"
+msgstr "Postavke poziva na akciju kontakta"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:35
+msgid "Hide callout section from homepage"
+msgstr "Sakrij sekciju poziva na akciju kontakta s početne stranice"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:137
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:196
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:87
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:609
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:32
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:33
+msgid "Button Text"
+msgstr "Tekst dugmeta"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:161
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:213
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:104
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:627
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:35
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:36
+msgid "Button Link"
+msgstr "Poveznica dugmeta"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:177
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:229
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:119
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:172
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:225
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:279
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:333
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:387
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:440
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:495
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:548
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:113
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:149
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:184
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:220
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:256
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:293
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:329
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:162
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:261
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:359
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:457
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:555
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:653
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:749
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:844
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:942
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:643
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:38
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:59
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:63
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:67
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:98
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/header-widget.php:106
+msgid "Open link in new tab"
+msgstr "Otvori poveznicu u novoj kartici"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:126
+msgid "Client section one"
+msgstr "Sekcija klijenta jedan"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:179
+msgid "Client section two"
+msgstr "Sekcija klijenta dva"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:233
+msgid "Client section three"
+msgstr "Sekcija klijenta tri"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:287
+msgid "Client section four"
+msgstr "Sekcija klijenta četiri"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:341
+msgid "Client section five"
+msgstr "Sekcija klijenta pet"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:394
+msgid "Client section six"
+msgstr "Sekcija klijenta šest"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:447
+msgid "Client section seven"
+msgstr "Sekcija klijenta sedam"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:502
+msgid "Client section eight"
+msgstr "Sekcija klijenta osam"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:9
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:16
+msgid "Footer callout settings"
+msgstr "Postavke poziva na akciju podnožja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:52
+msgid "Callout Header"
+msgstr "Poziv na akciju zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:66
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:117
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:168
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:91
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:190
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:287
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:384
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:483
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:581
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:678
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:774
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:871
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:389
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:440
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:491
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:84
+msgid "Icon"
+msgstr "Ikona"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:52
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:50
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:83
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:134
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:185
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:89
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:51
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:51
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:109
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:208
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:306
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:402
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:501
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:599
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:696
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:792
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:889
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:49
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:406
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:457
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:508
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:575
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:48
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:32
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:51
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:70
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:89
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:117
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:126
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:143
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:152
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:166
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:173
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:186
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:193
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "Naslov"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:67
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:68
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:101
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:152
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:203
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:104
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:66
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:68
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:127
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:226
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:324
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:420
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:520
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:618
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:714
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:810
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:907
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:64
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:424
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:475
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:526
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:591
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:63
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:81
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:83
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:94
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:88
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/header-widget.php:100
+msgid "Description"
+msgstr "Opis"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr "Prilagođene postavke zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr "Naslov zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr "Tekst zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr "Sakrij sekciju servisa na početnoj stranici"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr "Sekcija servisa jedan"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:156
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:209
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:263
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:317
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:371
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:424
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:479
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:532
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:145
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:245
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:343
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:441
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:539
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:637
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:733
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:828
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:926
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:96
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:97
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/header-widget.php:103
+msgid "Link"
+msgstr "Poveznica"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:171
+msgid "Service section two"
+msgstr "Sekcija servisa dva"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:268
+msgid "Service section three"
+msgstr "Sekcija servisa tri"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:367
+msgid "Service section four"
+msgstr "Sekcija servisa četiri"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:465
+msgid "Service section five"
+msgstr "Sekcija servisa pet"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:562
+msgid "Service section six"
+msgstr "Sekcija servisa šest"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:659
+msgid "Service section seven"
+msgstr "Sekcija servisa sedam"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:756
+msgid "Service section eight"
+msgstr "Sekcija servisa osam"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:851
+msgid "Service section nine"
+msgstr "Sekcija servisa devet"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:8
+msgid "Slider settings"
+msgstr "Postavke vrtuljka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:33
+msgid "Hide slider from homepage"
+msgstr "Sakrij vrtuljak na početnoj stranici"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:54
+msgid "Select slider type"
+msgstr "Odaberi vrstu vrtuljka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:76
+msgid "Select category for slider"
+msgstr "Odaberi kategoriju za vrtuljak"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:98
+msgid "Select slider animation"
+msgstr "Odaberi animaciju za vrtuljak"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:137
+msgid "Input number of slides"
+msgstr "Unesi broj slajdova"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:7
+msgid "Template settings"
+msgstr "Postavke predloška"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:228
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:42
+msgid "Meet our great team"
+msgstr "Upoznajte naš sjajni tim"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:35
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:127
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:219
+msgid "Hide footer callout"
+msgstr "Sakrij poziv na akciju podnožja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:229
+msgid "Contact page setting"
+msgstr "Postavke Kontakt stranice"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:238
+msgid "Send us a message"
+msgstr "Pošaljite nam poruku"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:245
+msgid "Contact form title"
+msgstr "Naslov kontakt forme"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:270
+msgid "Find the address"
+msgstr "Pronađi adresu"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:360
+msgid "Section title"
+msgstr "Naslov sekcije"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:376
+msgid "Section description"
+msgstr "Opis sekcije"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:30
+msgid "Hide testimonials from homepage"
+msgstr "Sakrij preporuke s početne stranice"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:83
+msgid "Animation"
+msgstr "Animacija"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:118
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:107
+msgid "Duration"
+msgstr "Trajanje"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:121
+msgid "Click here to add testimonial"
+msgstr "Klikni ovdje za dodavanje preporuka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:9
+msgid "Banner settings"
+msgstr "Postavke banera"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:60
+msgid "Daily archive title"
+msgstr "Naslov dnevne arhive"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:79
+msgid "Monthly archive title"
+msgstr "Naslov mjesečne arhive"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:98
+msgid "Yearly archive title"
+msgstr "Naslov godišnje arhive"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_theme_style.php:168
+msgid "Enable custom color skin"
+msgstr "Omogući skin prilagođene boje"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions.php:121
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:167
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:291
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:65
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:66
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/header-widget.php:98
+msgid "Find all icons"
+msgstr "Pronađi sve ikone"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:86
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/header-widget.php:98
+msgid "here"
+msgstr "ovdje"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions.php:122
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:203
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:329
+msgid "GooglePlus URL"
+msgstr "GooglePlus URL"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-layout.php:36
+msgid "Note"
+msgstr "Napomena"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-post-type-slugs.php:51
+msgid "Portfolio category slug"
+msgstr "Slug kategorije portfolia"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:14
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr "Sekcija zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-post-type-slugs.php:15
+msgid "Post type slugs setting"
+msgstr "Postavke slugova Vrste objava"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:7
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr "Widget područje bočne trake"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:144
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:77
+msgid "See case studies"
+msgstr "Pogledaj analizu slučaja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:469
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:482
+msgid "Custom CSS"
+msgstr "Prilagođeni CSS"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/archive.php:22
+msgid "Blog Archive"
+msgstr "Blog arhiva"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:24
+msgid "Posted on"
+msgstr "Objavljeno"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-slider.php:66
+msgid "Video format"
+msgstr "Video format"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/single.php:17
+msgid "About the author"
+msgstr "O autoru"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:50
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:42
+msgid "Our services"
+msgstr "Naše usluge"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:53
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:56
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:59
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:62
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:65
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:68
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:100
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:199
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:297
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:393
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:492
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:590
+msgid "Easy to use"
+msgstr "Jednostavno za koristiti"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:101
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:45
+msgid "Want to say hey or find out more?"
+msgstr "Želite pozdraviti ili saznati više?"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:118
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:44
+msgid "Latest projects"
+msgstr "Najnoviji projekti"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:256
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:448
+msgid "Our office location"
+msgstr "Lokacije našeg ureda"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:8
+msgid "Client settings"
+msgstr "Postavke klijenta"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:138
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:191
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:245
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:299
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:353
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:406
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:459
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:514
+msgid "Image"
+msgstr "Slika"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:7
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr "Postavke autorskih prava u podnožju"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Sakrij ikone društvenih mreža u podnožju"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:312
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:442
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr "Postavke zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:8
+msgid "Project settings"
+msgstr "Postavke projekta"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:79
+msgid "Select category for project"
+msgstr "Odaberi kategoriju za projekt"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:99
+msgid "Input number of projects"
+msgstr "Upišite broj projekata"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:113
+msgid "Click here to add project"
+msgstr "Kliknite ovdje kako bi dodali projekt"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr "Postavke usluga"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:57
+msgid "Demo slider"
+msgstr "Demo vrtuljak"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:58
+msgid "Category slider"
+msgstr "Vrtuljak kategorija"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:77
+msgid "Click here to add team member"
+msgstr "Kliknite ovdje kako bi dodali člana tima"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:14
+msgid "Category"
+msgstr "Kategorija"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:41
+msgid "Archive"
+msgstr "Arhiva"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:108
+msgid "Author"
+msgstr "Autor"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:134
+msgid "Tag"
+msgstr "Oznaka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:160
+msgid "Search"
+msgstr "Pretraga"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_banner.php:180
+msgid "Portfolio category"
+msgstr "Kategorija portfolia"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_theme_style.php:42
+msgid "Predefined default background"
+msgstr "Preddefinirana izvorna pozadina"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_theme_style.php:132
+msgid "Predefined colors"
+msgstr "Preddefinirane boje"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_theme_style.php:186
+msgid "Skin color"
+msgstr "Boja skina"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:6
+msgid "Testimonial Details"
+msgstr "Detalji preporuke"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:8
+msgid "Service Details"
+msgstr "Detalji usluge"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:10
+msgid "Portfolio Details"
+msgstr "Detalji portfolia"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:53
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:54
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:79
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:80
+msgid "Designation"
+msgstr "Odredište"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:11
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:13
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:48
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:50
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:83
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:85
+msgid "Add New"
+msgstr "Dodaj novo"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:12
+msgid "Add New Testimonial"
+msgstr "Dodaj novu preporuku"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:15
+msgid "All Testimonials"
+msgstr "Sve preporuke"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:49
+msgid "Add New Portfolio / Project"
+msgstr "Dodaj novi portfolio / projekt"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:84
+msgid "Add New Team"
+msgstr "Dodaj novi tim"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:87
+msgid "All Teams"
+msgstr "Svi timovi"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:16
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr "Widget područje podnožja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:27
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:29
+msgid "Top header left area"
+msgstr "Lijevo područje zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:37
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:39
+msgid "Top header center area"
+msgstr "Centralno područje zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:47
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:49
+msgid "Top header right area"
+msgstr "Desno područje zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:57
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:59
+msgid "Left widget area below slider"
+msgstr "Lijevo widget područje ispod vrtuljka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:66
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:68
+msgid "Right widget area below slider"
+msgstr "Desno widget područje ispod vrtuljka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:75
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:77
+msgid "Center widget area below slider"
+msgstr "Centralno widget područje ispod vrtuljka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:32
+msgid "Hide client section from homepage"
+msgstr "Sakrij sekciju o klijentu na početnoj stranici"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr "Postavke logotipa zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr "Omogući/onemogući logo"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:14
+msgid "Homepage project settings"
+msgstr "Postavke projekta na početnoj stranici"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:33
+msgid "Hide project section from homepage"
+msgstr "Sakrij sekciju projekata na početnoj stranici"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:14
+msgid "Featured slider settings"
+msgstr "Postavke istaknutog vrtuljka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:14
+msgid "Homepage testimonial settings"
+msgstr "Postavke preporuka na početnoj stranici"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_theme_style.php:105
+msgid "Predefined default backgrounds"
+msgstr "Preddefinirane izvorne pozadine"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:79
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:655
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:147
+msgid "Background Image"
+msgstr "Pozadinska slika"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-callout.php:92
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:668
+msgid "Background Position"
+msgstr "Pozicija pozadine"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Poveznice društvenih mreža"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:176
+msgid "Social links"
+msgstr "Poveznice društvenih mreža"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-post-type-slugs.php:26
+msgid "Team slug"
+msgstr "Slug tima"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-post-type-slugs.php:64
+msgid "Testimonial slug"
+msgstr "Slug preporuke"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-post-type-slugs.php:88
+msgid "Appointment slug"
+msgstr "Slug sastanka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-project.php:145
+msgid "Select project category archive column layout"
+msgstr "Odaberite raspored stupaca arhive kategorije projekata"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR : Info Widget"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/header-widget.php:14
+msgid "WBR : Header Widget"
+msgstr "WBR : Widget zaglavlja"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/404.php:12
+msgid "Go back"
+msgstr "Povratak"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:40
+msgid "No comments so far"
+msgstr "Trenutno nema komentara"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:40
+msgid "1 comment so far"
+msgstr "1 komentar do sad"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:40
+msgid "comments so far"
+msgstr "komentara do sad"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:57
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Trebate biti <a href=\"%s\">prijavljeni</a> kako bi objavili komentar."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:75
+msgid "Log out from this Account"
+msgstr "Odjavite se s ovog računa"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/comments.php:75
+msgid "Log out"
+msgstr "Odjava"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-slider.php:28
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-slider.php:36
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/index-slider.php:43
+msgid "This is a very powerful theme that can be used for any type of business. The layout is clean and elegant."
+msgstr "Ovo je vrlo moćna tema koja se može upotrijebiti a bilo koju vrstu djelatnosti. Raspored je jednostavan i elegantan."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/search.php:37
+msgid "Nothing found"
+msgstr "Nije ništa pronađeno"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:131
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:41
+msgid "What our clients say"
+msgstr "Što naši klijenit kažu"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:132
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:248
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:369
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:56
+msgid "Read what our customers are saying:"
+msgstr "Pročitajte što naši klijenti kažu:"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:142
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-client.php:41
+msgid "We work for the best clients"
+msgstr "Radimo za najbolje klijente"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:183
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:82
+msgid "Latest News"
+msgstr "Najnovije vijesti"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:195
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:125
+msgid "We are open Mon - Fri"
+msgstr "Otvoreni smo Pon - Pet"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:229
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:57
+msgid "We create themes with our customers in mind, therefore our team works hard to provide you with the best technical support."
+msgstr "Pravimo teme misleći na potrebe naših klijenata, stoga naš tima radi naporno kako bi vam pružio najbolju tehničku podršku."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:265
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:584
+msgid "Be creative with our template, there are hundreds of options and possibilities. Do not miss this unique opportunity to profit from this great template."
+msgstr "Budite kreativni s našim predloškom, postoje stotine opcija i mogućnosti. Nemojte propustiti ovu jedinstvenu priliku za profit s ovim odličnim predloškom."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-footer-callout.php:143
+msgid ": Mon - Fri : 08.00 - 18.00"
+msgstr ": Pon - Pet : 08.00 - 18.00 "
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr "Prenesite logo veličine 150x150"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:104
+msgid "Enter Logo width"
+msgstr "Upišite širinu logtipa"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:123
+msgid "Enter Logo height"
+msgstr "Upišite visinu logotipa"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:153
+msgid "Site Favicon"
+msgstr "Favicon web-stranice"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:196
+msgid "Hide Header Social Icons"
+msgstr "Sakrij ikone društvenih mreža u zaglavlju"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-layout.php:35
+msgid "Slider has fixed position on homepage."
+msgstr "Vrtuljak ima fiksnu poziciju na početnoj stranici."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-layout.php:36
+msgid "By default, all the sections are enabled on the homepage. If you do not want to display any section just drag that section to the disabled box."
+msgstr "U izvornim postavkama, sve sekcije su omogućene na početnoj stranici. Ako ih ne želite prikazati, povucite sekcije u okvir onemogućeno."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-layout.php:86
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-layout.php:91
+msgid "Theme Layout Manager"
+msgstr "Upravitelj rasporedom izgleda teme"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:8
+msgid "Latest News settings"
+msgstr "Postavke najnovijih vijesti"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:14
+msgid "Latest News Settings"
+msgstr "Postavke najnovijih vijesti"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:34
+msgid "Hide News section from homepage"
+msgstr "Sakrij sekciju Vijesti na početnoj stranici"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:53
+msgid "Show slider post in Latest News"
+msgstr "Prikaži vrtuljak objava u Najnovijim vijestima"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:72
+msgid "Hide post meta from News section"
+msgstr "Sakrij meta podatke objave is sekcije Najnovije vijesti"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:121
+msgid "Select category for Latest News"
+msgstr "Odaberite kategoriju za Najnovije vijesti"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-news.php:141
+msgid "Select the Number of Posts"
+msgstr "Odaberite broj objava"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-post-type-slugs.php:38
+msgid "Portfolio slug"
+msgstr "Slug portfolia"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-post-type-slugs.php:73
+msgid "After changing the slug, please do not forget to save the permalinks. Without saving, the old permalinks will not update."
+msgstr "Nakon promjene ovog sluga, nemojte zaboraviti spremiti trajne veze. Bez toga, stare trajne veze neće biti ažurirane."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-post-type-slugs.php:101
+msgid "Click here for permalinks settings"
+msgstr "Kliknite ovdje za postavke trajnih veza"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:100
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:85
+msgid "Slide"
+msgstr "Klizanje"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:100
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:85
+msgid "Fade"
+msgstr "Iščezavati"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-slider.php:152
+msgid "Show slider post in blog pages, archive page, category page, etc."
+msgstr "Prikaži vrtuljak objava na blog stranicama, arhivskim stranicama, stranicama kategorija itd."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:33
+msgid "Hide team section from About Us page"
+msgstr "Sakrij sekciju tima na stranici O nama"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:110
+msgid "Hide client section from About Us page"
+msgstr "Sakrij sekciju klijenata na stranici O nama"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:135
+msgid "Blog page settings"
+msgstr "Postavke blog stranice"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:152
+msgid "Hide post meta from blog pages, archive pages, categories, author, etc."
+msgstr "Sakrij meta podatke objava na blog stranicama, arhivskim stranicama, stranicama kategorija, stranicama autora itd."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:162
+msgid "Service page settings"
+msgstr "Postavke stranice Usluga"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:182
+msgid "Hide Testimonial section"
+msgstr "Sakrij sekciju preporuka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:201
+msgid "Hide Client section"
+msgstr "Sakrij sekciju klijenata"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:260
+msgid "Hide Google Map"
+msgstr "Sakrij Google Map"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:277
+msgid "Contact Google Map title"
+msgstr "Naslov Google Map kontakta"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:292
+msgid "Google Map URL"
+msgstr "Google Map URL"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:306
+msgid "Click here to add Google Map"
+msgstr "Kliknite ovdje kako bi dodali Google Map"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:329
+msgid "Contact information settings"
+msgstr "Postavke kontaktnih informacija"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:8
+msgid "Testimonials settings"
+msgstr "Postavke preporuka"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-testimonial.php:106
+msgid "If the transition-delay value is 2000, this means 2 seconds."
+msgstr "Ako je vrijednost odgode prijelaza 2000, to je 2 sekunde."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer_theme_style.php:71
+msgid "Theme style settings"
+msgstr "Postavke stila teme"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:12
+msgid "Team Details"
+msgstr "Detalji teme"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:28
+msgid "The settings mentioned below will only work for posts that are shown in a slider."
+msgstr "Postavke spomenute ispod funkcionirati će samo za objave koje su prikazane u vrtuljku."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:28
+msgid "By default, the Read More Button will take you to the single view of a post. But if you want to add a custom link to the Read More then use the settings below."
+msgstr "Po izvornim postavkama, dugme Pročitaj više otvoriti će cijelu objavu. Ali ako želite dodati svoju poveznicu u dugme Pročitaj više, onda upotrijebite postavke ispod."
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/meta-box/post-meta.php:56
+msgid "Social media settings"
+msgstr "Postavke društvenih mreža"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/post-type/custom-post-type.php:52
+msgid "All Portfolios / Projects"
+msgstr "Svi Portfolio / Projekti"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr "Informacijski widget Appointment teme"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/appointment_info_widget.php:86
+msgid "Get your Font Awesome"
+msgstr "Nabavi Font Awesome"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/header-widget.php:96
+msgid "Font Awesome icon"
+msgstr "Font Awesome ikona"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:86
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/widgets/sidebars.php:88
+msgid "WooCommerce sidebar widget area"
+msgstr "Widget područje WooCommerce bočne trake"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:166
+msgid "Upload a Favicon (ideal width and height is 16x16 or 32x32)"
+msgstr "Prenesi favicon (idealna širina i visna je 16x16 ili 32x32)"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-post-type-slugs.php:10
+msgid "SEO Friendly URL"
+msgstr "SEO prijateljski URL"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:14
+msgid "About Us page settings"
+msgstr "Postavke stranice Onama"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/theme_setup_data.php:247
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:353
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:568
+msgid "Contact Info"
+msgstr "Kontaktne informacije"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-header.php:155
+msgid "Upload a Favicon"
+msgstr "Prenesi favicon"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:345
+msgid "Hide Contact Info section from Contact page"
+msgstr "Sakrij sekciju Kontak informacije s Kontakt stranice"
+
+#: C:\xampp\htdocs\support_lite\wp-content\themes\appointment-pro/functions/customizer/customizer-template.php:559
+msgid "Hide contact callout from Contact Page"
+msgstr "Sakrij poziv na akciju s Kontakt stranice"
+

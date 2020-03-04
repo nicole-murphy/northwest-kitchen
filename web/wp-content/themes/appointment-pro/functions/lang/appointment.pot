@@ -1,0 +1,1496 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Appointment Pro\n"
+"POT-Creation-Date: 2017-06-22 16:04+0530\n"
+"PO-Revision-Date: 2017-06-22 16:04+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ../..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:9 functions/breadcrumbs/breadcrumbs.php:103
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr ""
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr ""
+
+#: 404.php:12
+msgid "Go back"
+msgstr ""
+
+#: about.php:106
+msgid "FOUNDER"
+msgstr ""
+
+#: about.php:106
+msgid "DESIGNER"
+msgstr ""
+
+#: about.php:106
+msgid "DEVELOPER"
+msgstr ""
+
+#: archive.php:22
+msgid "Blog Archive"
+msgstr ""
+
+#: comments.php:2
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#: comments.php:12
+msgid "Reply"
+msgstr ""
+
+#: comments.php:24
+msgid "Posted on"
+msgstr ""
+
+#: comments.php:26
+msgid "Edit"
+msgstr ""
+
+#: comments.php:29
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:40
+msgid "No comments so far"
+msgstr ""
+
+#: comments.php:40
+msgid "1 comment so far"
+msgstr ""
+
+#: comments.php:40
+msgid "comments so far"
+msgstr ""
+
+#: comments.php:47
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:48
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:49
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:57
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:64 contact.php:43 contact.php:44
+msgid "Name"
+msgstr ""
+
+#: comments.php:65 contact.php:47 contact.php:48
+msgid "Email"
+msgstr ""
+
+#: comments.php:74
+msgid "Leave your message"
+msgstr ""
+
+#: comments.php:75
+msgid "Logged in as"
+msgstr ""
+
+#: comments.php:75
+msgid "Log out from this Account"
+msgstr ""
+
+#: comments.php:75
+msgid "Log out"
+msgstr ""
+
+#: comments.php:77 contact.php:54
+msgid "Send Message"
+msgstr ""
+
+#: comments.php:80
+msgid "Leave a Reply"
+msgstr ""
+
+#: contact.php:32
+msgid "Thank you"
+msgstr ""
+
+#: contact.php:32
+msgid "Your information has been sent."
+msgstr ""
+
+#: contact.php:51 contact.php:52
+msgid "Message"
+msgstr ""
+
+#: content-slider-video.php:47 content.php:40 functions.php:176
+#: index-slider.php:29 index-slider.php:68 index-slider.php:180
+msgid "Read More"
+msgstr ""
+
+#: functions.php:72
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:108 functions/breadcrumbs/breadcrumbs.php:108
+msgid "Page"
+msgstr ""
+
+#: functions.php:122 functions/customizer/customizer-copyright.php:96
+#: functions/customizer/customizer-header.php:218
+#: functions/meta-box/post-meta.php:57 functions/meta-box/post-meta.php:58
+msgid "Facebook URL"
+msgstr ""
+
+#: functions.php:123 functions/customizer/customizer-copyright.php:132
+#: functions/customizer/customizer-header.php:255
+#: functions/meta-box/post-meta.php:61 functions/meta-box/post-meta.php:62
+msgid "Twitter URL"
+msgstr ""
+
+#: functions.php:124 functions/customizer/customizer-copyright.php:167
+#: functions/customizer/customizer-header.php:291
+#: functions/meta-box/post-meta.php:65 functions/meta-box/post-meta.php:66
+msgid "LinkedIn URL"
+msgstr ""
+
+#: functions.php:125 functions/customizer/customizer-copyright.php:203
+#: functions/customizer/customizer-header.php:329
+msgid "GooglePlus URL"
+msgstr ""
+
+#: functions.php:265
+msgid ""
+"Click the large blue button to start the dummy data import process.</br></"
+"br>Please be patient while WordPress imports all the content.</br></br>\n"
+"\t\t\t<h3>Recommended Plugins</h3>Appointment theme supports the following "
+"plugins:</br> </br><li> <a href=\"https://wordpress.org/plugins/contact-"
+"form-7/\"> Contact form 7</a> </l1> </br> <li> <a href=\"https://wordpress."
+"org/plugins/woocommerce/\"> WooCommerce </a> </li><li><a href=\"https://"
+"wordpress.org/plugins/easy-bootstrap-shortcodes/\"> Easy Bootstrap Shortcode "
+"</a></li><li> <a href=\"https://wordpress.org/plugins/jetpack/\"> Jetpack </"
+"a></li><li> <a href=\"https://wordpress.org/plugins/wp-google-maps/\"> WP "
+"Google Maps </a></li>"
+msgstr ""
+
+#: functions/appointment-info/sections/import-data.php:11
+msgid "Install Now"
+msgstr ""
+
+#: functions/appointment-info/sections/import-data.php:34
+msgid "Active Now"
+msgstr ""
+
+#: functions/appointment-info/sections/import-data.php:50
+msgid "Importing Dummy Content"
+msgstr ""
+
+#: functions/appointment-info/sections/import-data.php:51
+msgid ""
+"<p><strong>One Click Demo Import</strong> is the WordPress Plugin which "
+"helps in creating the exact replica of our demo site. Just click the button "
+"to proceed further.</p>"
+msgstr ""
+
+#: functions/appointment-info/sections/import-data.php:52
+msgid "Key Notes:"
+msgstr ""
+
+#: functions/appointment-info/sections/import-data.php:54
+msgid "Click the button to install the plugin. Ignore if already installed."
+msgstr ""
+
+#: functions/appointment-info/sections/import-data.php:55
+msgid ""
+"Activate the plugin so that they can read the dummy data files from the "
+"theme folder and import the content for you."
+msgstr ""
+
+#: functions/appointment-info/sections/import-data.php:56
+msgid "After activation go to Appearance >> Import Demo Data."
+msgstr ""
+
+#: functions/appointment-info/welcome-screen.php:53
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing Appointment To take full advantage of the "
+"best our theme can offer, please make sure you visit our %swelcome page%s."
+msgstr ""
+
+#: functions/appointment-info/welcome-screen.php:54
+msgid "Get started with Appointment"
+msgstr ""
+
+#: functions/appointment-info/welcome-screen.php:62
+#, php-format
+msgid ""
+"Save time by importing our demo data, your website will be set up and ready "
+"to customise in minutes. %s"
+msgstr ""
+
+#: functions/appointment-info/welcome-screen.php:62
+msgid "Import Demo Data"
+msgstr ""
+
+#: functions/appointment-info/welcome-screen.php:106
+msgid "Hooray! There are no required actions for you right now."
+msgstr ""
+
+#: functions/appointment-info/welcome-screen.php:143
+msgid "View Theme Info"
+msgstr ""
+
+#: functions/appointment-info/welcome-screen.php:213
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions/breadcrumbs/breadcrumbs.php:6
+#: functions/menu/default_menu_walker.php:23
+msgid "Home"
+msgstr ""
+
+#: functions/breadcrumbs/breadcrumbs.php:25
+msgid "Archive by category"
+msgstr ""
+
+#: functions/breadcrumbs/breadcrumbs.php:28
+msgid "Search results for"
+msgstr ""
+
+#: functions/breadcrumbs/breadcrumbs.php:95
+msgid "Posts tagged"
+msgstr ""
+
+#: functions/breadcrumbs/breadcrumbs.php:100
+msgid "Articles posted by"
+msgstr ""
+
+#: functions/custom-controls/select/taxonomy-dropdown-custom-control.php:35
+msgid "None"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:9
+#: functions/customizer/customizer-callout.php:15
+#: functions/customizer/customizer-template.php:540
+msgid "Contact callout settings"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:35
+msgid "Hide callout section from homepage"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:45 theme_setup_data.php:101
+msgid "Want to say hey or find out more?"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:52
+#: functions/customizer/customizer-client.php:50
+#: functions/customizer/customizer-footer-callout.php:83
+#: functions/customizer/customizer-footer-callout.php:134
+#: functions/customizer/customizer-footer-callout.php:185
+#: functions/customizer/customizer-news.php:89
+#: functions/customizer/customizer-project.php:51
+#: functions/customizer/customizer-service.php:51
+#: functions/customizer/customizer-service.php:109
+#: functions/customizer/customizer-service.php:208
+#: functions/customizer/customizer-service.php:306
+#: functions/customizer/customizer-service.php:402
+#: functions/customizer/customizer-service.php:501
+#: functions/customizer/customizer-service.php:599
+#: functions/customizer/customizer-service.php:696
+#: functions/customizer/customizer-service.php:792
+#: functions/customizer/customizer-service.php:889
+#: functions/customizer/customizer-template.php:49
+#: functions/customizer/customizer-template.php:406
+#: functions/customizer/customizer-template.php:457
+#: functions/customizer/customizer-template.php:508
+#: functions/customizer/customizer-template.php:575
+#: functions/customizer/customizer-testimonial.php:48
+#: functions/customizer/customizer_banner.php:32
+#: functions/customizer/customizer_banner.php:51
+#: functions/customizer/customizer_banner.php:70
+#: functions/customizer/customizer_banner.php:89
+#: functions/customizer/customizer_banner.php:117
+#: functions/customizer/customizer_banner.php:126
+#: functions/customizer/customizer_banner.php:143
+#: functions/customizer/customizer_banner.php:152
+#: functions/customizer/customizer_banner.php:166
+#: functions/customizer/customizer_banner.php:173
+#: functions/customizer/customizer_banner.php:186
+#: functions/customizer/customizer_banner.php:193
+#: functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:67
+#: functions/customizer/customizer-client.php:68
+#: functions/customizer/customizer-footer-callout.php:101
+#: functions/customizer/customizer-footer-callout.php:152
+#: functions/customizer/customizer-footer-callout.php:203
+#: functions/customizer/customizer-news.php:104
+#: functions/customizer/customizer-project.php:66
+#: functions/customizer/customizer-service.php:68
+#: functions/customizer/customizer-service.php:127
+#: functions/customizer/customizer-service.php:226
+#: functions/customizer/customizer-service.php:324
+#: functions/customizer/customizer-service.php:420
+#: functions/customizer/customizer-service.php:520
+#: functions/customizer/customizer-service.php:618
+#: functions/customizer/customizer-service.php:714
+#: functions/customizer/customizer-service.php:810
+#: functions/customizer/customizer-service.php:907
+#: functions/customizer/customizer-template.php:64
+#: functions/customizer/customizer-template.php:424
+#: functions/customizer/customizer-template.php:475
+#: functions/customizer/customizer-template.php:526
+#: functions/customizer/customizer-template.php:591
+#: functions/customizer/customizer-testimonial.php:63
+#: functions/meta-box/post-meta.php:81 functions/meta-box/post-meta.php:83
+#: functions/meta-box/post-meta.php:94
+#: functions/widgets/appointment_info_widget.php:88
+#: functions/widgets/header-widget.php:100
+msgid "Description"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:79
+#: functions/customizer/customizer-template.php:655
+#: functions/customizer/customizer-testimonial.php:147
+msgid "Background Image"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:92
+#: functions/customizer/customizer-template.php:668
+msgid "Background Position"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:108
+#: functions/customizer/customizer-template.php:684
+#: functions/customizer/customizer-testimonial.php:176
+msgid "Enable overlay"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:119
+msgid "Button one"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:127
+#: functions/customizer/customizer-template.php:599 theme_setup_data.php:106
+#: theme_setup_data.php:266
+msgid "Purchase Now"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:137
+#: functions/customizer/customizer-callout.php:196
+#: functions/customizer/customizer-client.php:87
+#: functions/customizer/customizer-template.php:609
+#: functions/meta-box/post-meta.php:32 functions/meta-box/post-meta.php:33
+msgid "Button Text"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:145
+msgid "Button two"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:161
+#: functions/customizer/customizer-callout.php:213
+#: functions/customizer/customizer-client.php:104
+#: functions/customizer/customizer-template.php:627
+#: functions/meta-box/post-meta.php:35 functions/meta-box/post-meta.php:36
+msgid "Button Link"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:177
+#: functions/customizer/customizer-callout.php:229
+#: functions/customizer/customizer-client.php:119
+#: functions/customizer/customizer-client.php:172
+#: functions/customizer/customizer-client.php:225
+#: functions/customizer/customizer-client.php:279
+#: functions/customizer/customizer-client.php:333
+#: functions/customizer/customizer-client.php:387
+#: functions/customizer/customizer-client.php:440
+#: functions/customizer/customizer-client.php:495
+#: functions/customizer/customizer-client.php:548
+#: functions/customizer/customizer-copyright.php:113
+#: functions/customizer/customizer-copyright.php:149
+#: functions/customizer/customizer-copyright.php:184
+#: functions/customizer/customizer-copyright.php:220
+#: functions/customizer/customizer-copyright.php:256
+#: functions/customizer/customizer-copyright.php:293
+#: functions/customizer/customizer-copyright.php:329
+#: functions/customizer/customizer-service.php:162
+#: functions/customizer/customizer-service.php:261
+#: functions/customizer/customizer-service.php:359
+#: functions/customizer/customizer-service.php:457
+#: functions/customizer/customizer-service.php:555
+#: functions/customizer/customizer-service.php:653
+#: functions/customizer/customizer-service.php:749
+#: functions/customizer/customizer-service.php:844
+#: functions/customizer/customizer-service.php:942
+#: functions/customizer/customizer-template.php:643
+#: functions/meta-box/post-meta.php:38 functions/meta-box/post-meta.php:59
+#: functions/meta-box/post-meta.php:63 functions/meta-box/post-meta.php:67
+#: functions/meta-box/post-meta.php:98 functions/widgets/header-widget.php:106
+msgid "Open link in new tab"
+msgstr ""
+
+#: functions/customizer/customizer-callout.php:186 theme_setup_data.php:109
+msgid "Get in Touch"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:8
+msgid "Client settings"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:14
+#: functions/customizer/customizer-service.php:13
+msgid "Section Heading"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:32
+msgid "Hide client section from homepage"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:41 theme_setup_data.php:142
+msgid "We work for the best clients"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:77 theme_setup_data.php:144
+msgid "See case studies"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:126
+msgid "Client section one"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:138
+#: functions/customizer/customizer-client.php:191
+#: functions/customizer/customizer-client.php:245
+#: functions/customizer/customizer-client.php:299
+#: functions/customizer/customizer-client.php:353
+#: functions/customizer/customizer-client.php:406
+#: functions/customizer/customizer-client.php:459
+#: functions/customizer/customizer-client.php:514
+msgid "Image"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:156
+#: functions/customizer/customizer-client.php:209
+#: functions/customizer/customizer-client.php:263
+#: functions/customizer/customizer-client.php:317
+#: functions/customizer/customizer-client.php:371
+#: functions/customizer/customizer-client.php:424
+#: functions/customizer/customizer-client.php:479
+#: functions/customizer/customizer-client.php:532
+#: functions/customizer/customizer-service.php:145
+#: functions/customizer/customizer-service.php:245
+#: functions/customizer/customizer-service.php:343
+#: functions/customizer/customizer-service.php:441
+#: functions/customizer/customizer-service.php:539
+#: functions/customizer/customizer-service.php:637
+#: functions/customizer/customizer-service.php:733
+#: functions/customizer/customizer-service.php:828
+#: functions/customizer/customizer-service.php:926
+#: functions/meta-box/post-meta.php:96 functions/meta-box/post-meta.php:97
+#: functions/widgets/header-widget.php:103
+msgid "Link"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:179
+msgid "Client section two"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:233
+msgid "Client section three"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:287
+msgid "Client section four"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:341
+msgid "Client section five"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:394
+msgid "Client section six"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:447
+msgid "Client section seven"
+msgstr ""
+
+#: functions/customizer/customizer-client.php:502
+msgid "Client section eight"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:7
+#: functions/customizer/customizer-copyright.php:13
+msgid "Footer copyright settings"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:23 theme_setup_data.php:206
+msgid "No copyright information has been saved yet."
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:32
+msgid "Copyright text"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:239
+#: functions/customizer/customizer-header.php:404
+msgid "Skype URL"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:276
+#: functions/customizer/customizer-header.php:367
+msgid "Instagram URL"
+msgstr ""
+
+#: functions/customizer/customizer-copyright.php:312
+#: functions/customizer/customizer-header.php:442
+msgid "YouTube URL"
+msgstr ""
+
+#: functions/customizer/customizer-footer-callout.php:9
+#: functions/customizer/customizer-footer-callout.php:16
+msgid "Footer callout settings"
+msgstr ""
+
+#: functions/customizer/customizer-footer-callout.php:35
+#: functions/customizer/customizer-template.php:127
+#: functions/customizer/customizer-template.php:219
+msgid "Hide footer callout"
+msgstr ""
+
+#: functions/customizer/customizer-footer-callout.php:45
+#: theme_setup_data.php:190
+msgid "Stay in touch with us"
+msgstr ""
+
+#: functions/customizer/customizer-footer-callout.php:52
+msgid "Callout Header"
+msgstr ""
+
+#: functions/customizer/customizer-footer-callout.php:66
+#: functions/customizer/customizer-footer-callout.php:117
+#: functions/customizer/customizer-footer-callout.php:168
+#: functions/customizer/customizer-service.php:91
+#: functions/customizer/customizer-service.php:190
+#: functions/customizer/customizer-service.php:287
+#: functions/customizer/customizer-service.php:384
+#: functions/customizer/customizer-service.php:483
+#: functions/customizer/customizer-service.php:581
+#: functions/customizer/customizer-service.php:678
+#: functions/customizer/customizer-service.php:774
+#: functions/customizer/customizer-service.php:871
+#: functions/customizer/customizer-template.php:389
+#: functions/customizer/customizer-template.php:440
+#: functions/customizer/customizer-template.php:491
+#: functions/widgets/appointment_info_widget.php:84
+msgid "Icon"
+msgstr ""
+
+#: functions/customizer/customizer-footer-callout.php:74
+#: functions/customizer/customizer-template.php:397
+#: functions/widgets/appointment_info_widget.php:42
+#: functions/widgets/appointment_info_widget.php:63
+#: functions/widgets/appointment_info_widget.php:82 theme_setup_data.php:191
+#: theme_setup_data.php:252
+msgid "Have a question? Call us now"
+msgstr ""
+
+#: functions/customizer/customizer-footer-callout.php:125
+#: theme_setup_data.php:195
+msgid "We are open Mon - Fri"
+msgstr ""
+
+#: functions/customizer/customizer-footer-callout.php:143
+msgid ": Mon - Fri : 08.00 - 18.00"
+msgstr ""
+
+#: functions/customizer/customizer-footer-callout.php:176
+#: functions/customizer/customizer-template.php:499 theme_setup_data.php:200
+#: theme_setup_data.php:260
+msgid "Drop us a mail"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:9
+msgid "Header settings"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:13
+msgid "Custom header settings"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:25
+msgid "Header Headline"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:38
+msgid "Header Text"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:46
+msgid "Header logo settings"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:64
+msgid "Upload a 150x150 Logo Image"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:83
+msgid "Enable/Disable Logo"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:104
+msgid "Enter Logo width"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:123
+msgid "Enter Logo height"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:145
+msgid "Show Logo text"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:153
+msgid "Site Favicon"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:155
+msgid "Upload a Favicon"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:166
+msgid "Upload a Favicon (ideal width and height is 16x16 or 32x32)"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:176
+msgid "Social links"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:196
+msgid "Hide Header Social Icons"
+msgstr ""
+
+#: functions/customizer/customizer-header.php:469
+#: functions/customizer/customizer-header.php:482
+msgid "Custom CSS"
+msgstr ""
+
+#: functions/customizer/customizer-layout.php:20
+#: functions/customizer/customizer-layout.php:122
+msgid "Enable"
+msgstr ""
+
+#: functions/customizer/customizer-layout.php:35
+msgid "Slider has fixed position on homepage."
+msgstr ""
+
+#: functions/customizer/customizer-layout.php:36
+msgid "Note"
+msgstr ""
+
+#: functions/customizer/customizer-layout.php:36
+msgid ""
+"By default, all the sections are enabled on the homepage. If you do not want "
+"to display any section just drag that section to the disabled box."
+msgstr ""
+
+#: functions/customizer/customizer-layout.php:86
+#: functions/customizer/customizer-layout.php:91
+msgid "Theme Layout Manager"
+msgstr ""
+
+#: functions/customizer/customizer-layout.php:139
+msgid "Disable"
+msgstr ""
+
+#: functions/customizer/customizer-news.php:8
+msgid "Latest News settings"
+msgstr ""
+
+#: functions/customizer/customizer-news.php:14
+msgid "Latest News Settings"
+msgstr ""
+
+#: functions/customizer/customizer-news.php:34
+msgid "Hide News section from homepage"
+msgstr ""
+
+#: functions/customizer/customizer-news.php:53
+msgid "Show slider post in Latest News"
+msgstr ""
+
+#: functions/customizer/customizer-news.php:72
+msgid "Hide post meta from News section"
+msgstr ""
+
+#: functions/customizer/customizer-news.php:82 theme_setup_data.php:183
+msgid "Latest News"
+msgstr ""
+
+#: functions/customizer/customizer-news.php:121
+msgid "Select category for Latest News"
+msgstr ""
+
+#: functions/customizer/customizer-news.php:141
+msgid "Select the Number of Posts"
+msgstr ""
+
+#: functions/customizer/customizer-post-type-slugs.php:10
+msgid "SEO Friendly URL"
+msgstr ""
+
+#: functions/customizer/customizer-post-type-slugs.php:15
+msgid "Post type slugs setting"
+msgstr ""
+
+#: functions/customizer/customizer-post-type-slugs.php:26
+msgid "Team slug"
+msgstr ""
+
+#: functions/customizer/customizer-post-type-slugs.php:38
+msgid "Portfolio slug"
+msgstr ""
+
+#: functions/customizer/customizer-post-type-slugs.php:51
+msgid "Portfolio category slug"
+msgstr ""
+
+#: functions/customizer/customizer-post-type-slugs.php:64
+msgid "Testimonial slug"
+msgstr ""
+
+#: functions/customizer/customizer-post-type-slugs.php:73
+msgid ""
+"After changing the slug, please do not forget to save the permalinks. "
+"Without saving, the old permalinks will not update."
+msgstr ""
+
+#: functions/customizer/customizer-post-type-slugs.php:88
+msgid "Appointment slug"
+msgstr ""
+
+#: functions/customizer/customizer-post-type-slugs.php:101
+msgid "Click here for permalinks settings"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:8
+msgid "Project settings"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:14
+msgid "Homepage project settings"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:33
+msgid "Hide project section from homepage"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:44 theme_setup_data.php:118
+msgid "Latest projects"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:79
+msgid "Select category for project"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:99
+msgid "Input number of projects"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:113
+msgid "Click here to add project"
+msgstr ""
+
+#: functions/customizer/customizer-project.php:145
+msgid "Select project category archive column layout"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:8
+msgid "Service settings"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:33
+msgid "Hide service section from homepage"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:42 theme_setup_data.php:50
+msgid "Our services"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:77
+msgid "Service section one"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:100
+#: functions/customizer/customizer-service.php:199
+#: functions/customizer/customizer-service.php:297
+#: functions/customizer/customizer-service.php:393
+#: functions/customizer/customizer-service.php:492
+#: functions/customizer/customizer-service.php:590 theme_setup_data.php:53
+#: theme_setup_data.php:56 theme_setup_data.php:59 theme_setup_data.php:62
+#: theme_setup_data.php:65 theme_setup_data.php:68
+msgid "Easy to use"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:171
+msgid "Service section two"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:268
+msgid "Service section three"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:367
+msgid "Service section four"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:465
+msgid "Service section five"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:562
+msgid "Service section six"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:659
+msgid "Service section seven"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:756
+msgid "Service section eight"
+msgstr ""
+
+#: functions/customizer/customizer-service.php:851
+msgid "Service section nine"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:8
+msgid "Slider settings"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:14
+msgid "Featured slider settings"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:33
+msgid "Hide slider from homepage"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:54
+msgid "Select slider type"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:57
+msgid "Demo slider"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:58
+msgid "Category slider"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:76
+msgid "Select category for slider"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:98
+msgid "Select slider animation"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:100
+#: functions/customizer/customizer-testimonial.php:85
+msgid "Slide"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:100
+#: functions/customizer/customizer-testimonial.php:85
+msgid "Fade"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:118
+#: functions/customizer/customizer-testimonial.php:107
+msgid "Duration"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:137
+msgid "Input number of slides"
+msgstr ""
+
+#: functions/customizer/customizer-slider.php:152
+msgid "Show slider post in blog pages, archive page, category page, etc."
+msgstr ""
+
+#: functions/customizer/customizer-template.php:7
+msgid "Template settings"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:14
+msgid "About Us page settings"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:33
+msgid "Hide team section from About Us page"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:42 theme_setup_data.php:228
+msgid "Meet our great team"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:57 theme_setup_data.php:229
+msgid ""
+"We create themes with our customers in mind, therefore our team works hard "
+"to provide you with the best technical support."
+msgstr ""
+
+#: functions/customizer/customizer-template.php:77
+msgid "Click here to add team member"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:110
+msgid "Hide client section from About Us page"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:135
+msgid "Blog page settings"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:152
+msgid "Hide post meta from blog pages, archive pages, categories, author, etc."
+msgstr ""
+
+#: functions/customizer/customizer-template.php:162
+msgid "Service page settings"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:182
+msgid "Hide Testimonial section"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:201
+msgid "Hide Client section"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:229
+msgid "Contact page setting"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:238
+msgid "Send us a message"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:245
+msgid "Contact form title"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:260
+msgid "Hide Google Map"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:270
+msgid "Find the address"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:277
+msgid "Contact Google Map title"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:292
+msgid "Google Map URL"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:306
+msgid "Click here to add Google Map"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:329
+msgid "Contact information settings"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:345
+msgid "Hide Contact Info section from Contact page"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:353
+#: functions/customizer/customizer-template.php:568 theme_setup_data.php:247
+msgid "Contact Info"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:360
+msgid "Section title"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:369
+#: functions/customizer/customizer-testimonial.php:56 theme_setup_data.php:132
+#: theme_setup_data.php:248
+msgid "Read what our customers are saying:"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:376
+msgid "Section description"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:448 theme_setup_data.php:256
+msgid "Our office location"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:559
+msgid "Hide contact callout from Contact Page"
+msgstr ""
+
+#: functions/customizer/customizer-template.php:584 theme_setup_data.php:265
+msgid ""
+"Be creative with our template, there are hundreds of options and "
+"possibilities. Do not miss this unique opportunity to profit from this great "
+"template."
+msgstr ""
+
+#: functions/customizer/customizer-testimonial.php:8
+msgid "Testimonials settings"
+msgstr ""
+
+#: functions/customizer/customizer-testimonial.php:14
+msgid "Homepage testimonial settings"
+msgstr ""
+
+#: functions/customizer/customizer-testimonial.php:30
+msgid "Hide testimonials from homepage"
+msgstr ""
+
+#: functions/customizer/customizer-testimonial.php:41 theme_setup_data.php:131
+msgid "What our clients say"
+msgstr ""
+
+#: functions/customizer/customizer-testimonial.php:83
+msgid "Animation"
+msgstr ""
+
+#: functions/customizer/customizer-testimonial.php:96
+msgid "2000"
+msgstr ""
+
+#: functions/customizer/customizer-testimonial.php:106
+msgid "If the transition-delay value is 2000, this means 2 seconds."
+msgstr ""
+
+#: functions/customizer/customizer-testimonial.php:121
+msgid "Click here to add testimonial"
+msgstr ""
+
+#: functions/customizer/customizer-testimonial.php:160
+msgid "Background attachment"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:9
+msgid "Banner settings"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:14
+msgid "Category"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:23 theme_setup_data.php:287
+msgid "Category Archive"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:41
+msgid "Archive"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:60
+msgid "Daily archive title"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:79
+msgid "Monthly archive title"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:98
+msgid "Yearly archive title"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:108
+msgid "Author"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:134
+msgid "Tag"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:160 searchform.php:2
+msgid "Search"
+msgstr ""
+
+#: functions/customizer/customizer_banner.php:180
+msgid "Portfolio category"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:42
+msgid "Predefined default background"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:71
+msgid "Theme style settings"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:79
+msgid "wide"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:90
+msgid "Theme Layout"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:105
+msgid "Predefined default backgrounds"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:132
+msgid "Predefined colors"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:169
+msgid "Enable custom color skin"
+msgstr ""
+
+#: functions/customizer/customizer_theme_style.php:187
+msgid "Skin color"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:6
+msgid "Testimonial Details"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:8
+msgid "Service Details"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:10
+msgid "Portfolio Details"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:12
+msgid "Team Details"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:14
+msgid "Customize Read More Button in slider"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:28
+msgid ""
+"The settings mentioned below will only work for posts that are shown in a "
+"slider."
+msgstr ""
+
+#: functions/meta-box/post-meta.php:28
+msgid ""
+"By default, the Read More Button will take you to the single view of a post. "
+"But if you want to add a custom link to the Read More then use the settings "
+"below."
+msgstr ""
+
+#: functions/meta-box/post-meta.php:30
+msgid "Show Read More Button"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:53 functions/meta-box/post-meta.php:54
+#: functions/meta-box/post-meta.php:79 functions/meta-box/post-meta.php:80
+msgid "Designation"
+msgstr ""
+
+#: functions/meta-box/post-meta.php:56
+msgid "Social media settings"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:11
+#: functions/post-type/custom-post-type.php:13
+#: functions/post-type/custom-post-type.php:48
+#: functions/post-type/custom-post-type.php:50
+#: functions/post-type/custom-post-type.php:83
+#: functions/post-type/custom-post-type.php:85
+msgid "Add New"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:12
+msgid "Add New Testimonial"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:14
+#: functions/post-type/custom-post-type.php:51
+#: functions/post-type/custom-post-type.php:86
+msgid "New Link"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:15
+msgid "All Testimonials"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:16
+#: functions/post-type/custom-post-type.php:53
+#: functions/post-type/custom-post-type.php:88
+msgid "View Link"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:17
+#: functions/post-type/custom-post-type.php:54
+#: functions/post-type/custom-post-type.php:89
+msgid "Search Links"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:18
+#: functions/post-type/custom-post-type.php:55
+#: functions/post-type/custom-post-type.php:90
+msgid "No Links found"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:19
+#: functions/post-type/custom-post-type.php:56
+#: functions/post-type/custom-post-type.php:91
+msgid "No Links found in Trash"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:49
+msgid "Add New Portfolio / Project"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:52
+msgid "All Portfolios / Projects"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:84
+msgid "Add New Team"
+msgstr ""
+
+#: functions/post-type/custom-post-type.php:87
+msgid "All Teams"
+msgstr ""
+
+#: functions/template-tags.php:33 index-news.php:52
+msgid "By"
+msgstr ""
+
+#: functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr ""
+
+#: functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr ""
+
+#: functions/widgets/appointment_info_widget.php:86
+msgid "Get your Font Awesome"
+msgstr ""
+
+#: functions/widgets/appointment_info_widget.php:86
+#: functions/widgets/header-widget.php:98
+msgid "here"
+msgstr ""
+
+#: functions/widgets/header-widget.php:14
+msgid "WBR : Header Widget"
+msgstr ""
+
+#: functions/widgets/header-widget.php:76
+#: functions/widgets/header-widget.php:101
+msgid "Make a reservation: 1-800-123-4567"
+msgstr ""
+
+#: functions/widgets/header-widget.php:96
+msgid "Font Awesome icon"
+msgstr ""
+
+#: functions/widgets/header-widget.php:98
+msgid "Find all icons"
+msgstr ""
+
+#: functions/widgets/sidebars.php:7 functions/widgets/sidebars.php:9
+msgid "Sidebar widget area"
+msgstr ""
+
+#: functions/widgets/sidebars.php:16 functions/widgets/sidebars.php:18
+msgid "Footer widget area"
+msgstr ""
+
+#: functions/widgets/sidebars.php:27 functions/widgets/sidebars.php:29
+msgid "Top header left area"
+msgstr ""
+
+#: functions/widgets/sidebars.php:37 functions/widgets/sidebars.php:39
+msgid "Top header center area"
+msgstr ""
+
+#: functions/widgets/sidebars.php:47 functions/widgets/sidebars.php:49
+msgid "Top header right area"
+msgstr ""
+
+#: functions/widgets/sidebars.php:57 functions/widgets/sidebars.php:59
+msgid "Left widget area below slider"
+msgstr ""
+
+#: functions/widgets/sidebars.php:66 functions/widgets/sidebars.php:68
+msgid "Right widget area below slider"
+msgstr ""
+
+#: functions/widgets/sidebars.php:75 functions/widgets/sidebars.php:77
+msgid "Center widget area below slider"
+msgstr ""
+
+#: functions/widgets/sidebars.php:86 functions/widgets/sidebars.php:88
+msgid "WooCommerce sidebar widget area"
+msgstr ""
+
+#: header.php:184
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: index-slider.php:27
+msgid "Powerful Bootstrap Theme"
+msgstr ""
+
+#: index-slider.php:28 index-slider.php:36 index-slider.php:43
+msgid ""
+"This is a very powerful theme that can be used for any type of business. The "
+"layout is clean and elegant."
+msgstr ""
+
+#: index-slider.php:66
+msgid "Video format"
+msgstr ""
+
+#: index-slider.php:67
+msgid ""
+"This is an example of a video post format displayed in the featured slider "
+"with an excerpt added."
+msgstr ""
+
+#: index-testimonial.php:1
+msgid ""
+"Design is a funny word. Some people think design means how it looks. But of "
+"course, if you dig deeper, it's really how it works."
+msgstr ""
+
+#: search.php:37
+msgid "Nothing found"
+msgstr ""
+
+#: search.php:38
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: single.php:17
+msgid "About the author"
+msgstr ""
+
+#: theme_setup_data.php:119
+msgid "Explore the works of our members"
+msgstr ""
+
+#: theme_setup_data.php:246
+msgid "<b>Send Us</b> a Message"
+msgstr ""
+
+#: theme_setup_data.php:264
+msgid "Contact Information"
+msgstr ""
+
+#: theme_setup_data.php:275
+msgid "<b>Find</b> the Address"
+msgstr ""
+
+#: theme_setup_data.php:284
+msgid "Daily Archive"
+msgstr ""
+
+#: theme_setup_data.php:285
+msgid "Monthly Archive"
+msgstr ""
+
+#: theme_setup_data.php:286
+msgid "Yearly Archive"
+msgstr ""
+
+#: theme_setup_data.php:288
+msgid "Author Archive"
+msgstr ""
+
+#: theme_setup_data.php:289
+msgid "Tag Archive"
+msgstr ""
+
+#: theme_setup_data.php:290
+msgid "Search Archive"
+msgstr ""
+
+#: theme_setup_data.php:291
+msgid "Portfolio Categories"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Appointment Pro"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A responsive theme for all types of business that use multiple nav menus, "
+"several sidebars, etc."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Webriti"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wordpress.org/"
+msgstr ""
